@@ -1,0 +1,58 @@
+============================================================
+ SEMANA 03 · SESIÓN 02 LABORATORIO
+ CASO 01: VENTAS E-COMMERCE
+============================================================
+Archivo : /mnt/data/lab_s03_caso01_ordenacion_externa_java17/src/main/resources/datos/caso_01_ventas_ecommerce_docente.csv
+Clave   : fecha_compra ASC
+Bloque  : 100 registros
+
+---- ANTES DE ORDENAR ----
+ORDEN      FECHA                REGIÓN       PRODUCTO           TOTAL
+VEN-00547  2026-01-03 16:17:00  Lima         Laptop           4940.18
+VEN-00552  2026-01-17 09:37:00  Loreto       SSD              2010.61
+VEN-00534  2026-01-18 13:18:00  Lima         Audifonos        1290.84
+VEN-00541  2026-01-21 23:36:00  Cusco        Audifonos        1548.85
+VEN-00550  2026-01-25 04:32:00  Cusco        Audifonos         254.79
+VEN-00537  2026-01-30 22:20:00  La Libertad  Teclado          2357.79
+VEN-00525  2026-02-02 03:51:00  Arequipa     Laptop           5099.80
+VEN-00532  2026-02-17 13:08:00  Piura        Mouse             820.55
+VEN-00543  2026-02-17 22:38:00  Lima         Monitor          2670.08
+VEN-00544  2026-02-19 18:32:00  Cusco        Mouse             972.54
+
+---- DESPUÉS - MEZCLA DIRECTA ----
+ORDEN      FECHA                REGIÓN       PRODUCTO           TOTAL
+VEN-00951  2026-01-01 15:03:00  La Libertad  SSD              1845.18
+VEN-00863  2026-01-02 14:35:00  Junin        Laptop           3473.48
+VEN-00774  2026-01-02 19:10:00  Cusco        Monitor          3243.32
+VEN-00892  2026-01-02 20:12:00  Lima         Mouse            3809.25
+VEN-00705  2026-01-02 23:11:00  Piura        Teclado           203.29
+VEN-00162  2026-01-03 02:47:00  Loreto       Laptop            689.88
+VEN-00009  2026-01-03 05:43:00  Piura        Monitor          4498.35
+VEN-00201  2026-01-03 07:29:00  La Libertad  Mouse             425.44
+VEN-00694  2026-01-03 10:01:00  La Libertad  Router           4686.39
+VEN-00468  2026-01-03 13:55:00  Junin        SSD              3002.12
+
+---- DESPUÉS - FUSIÓN NATURAL ----
+ORDEN      FECHA                REGIÓN       PRODUCTO           TOTAL
+VEN-00951  2026-01-01 15:03:00  La Libertad  SSD              1845.18
+VEN-00863  2026-01-02 14:35:00  Junin        Laptop           3473.48
+VEN-00774  2026-01-02 19:10:00  Cusco        Monitor          3243.32
+VEN-00892  2026-01-02 20:12:00  Lima         Mouse            3809.25
+VEN-00705  2026-01-02 23:11:00  Piura        Teclado           203.29
+VEN-00162  2026-01-03 02:47:00  Loreto       Laptop            689.88
+VEN-00009  2026-01-03 05:43:00  Piura        Monitor          4498.35
+VEN-00201  2026-01-03 07:29:00  La Libertad  Mouse             425.44
+VEN-00694  2026-01-03 10:01:00  La Libertad  Router           4686.39
+VEN-00468  2026-01-03 13:55:00  Junin        SSD              3002.12
+
+============================================================
+ MÉTRICAS DE EJECUCIÓN
+============================================================
+Algoritmo            Reg.     Runs  Pasadas    Comparac.   Lecturas    Escrit.       Tmp     Tiempo       OK
+Mezcla Directa       1000       10        4         6192       5600       5600        19  125.525ms       SI
+Fusión Natural       1000       25        5         5828       6880       6880        49   64.348ms       SI
+
+Archivos generados:
+- /mnt/data/lab_s03_caso01_ordenacion_externa_java17/salida/caso01_ordenado_mezcla_directa.csv
+- /mnt/data/lab_s03_caso01_ordenacion_externa_java17/salida/caso01_ordenado_fusion_natural.csv
+- /mnt/data/lab_s03_caso01_ordenacion_externa_java17/salida/metricas_caso01.csv

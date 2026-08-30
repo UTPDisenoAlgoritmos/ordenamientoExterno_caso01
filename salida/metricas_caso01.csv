@@ -1,0 +1,3 @@
+algoritmo,registros,corridas_iniciales,pasadas_fusion,comparaciones,lecturas,escrituras,temporales,tiempo_ms,orden_correcto
+Mezcla Directa,1000,10,4,6192,5600,5600,19,125.525,SI
+Fusión Natural,1000,25,5,5828,6880,6880,49,64.348,SI

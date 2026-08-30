@@ -1,0 +1,1001 @@
+orden_id,fecha_compra,cliente_id,region,canal,producto,cantidad,total_soles,prioridad_entrega
+VEN-00547,2026-01-03 16:17:00,CLI-0290,Lima,tienda,Laptop,7,4940.18,alta
+VEN-00552,2026-01-17 09:37:00,CLI-0238,Loreto,web,SSD,3,2010.61,alta
+VEN-00534,2026-01-18 13:18:00,CLI-0178,Lima,app,Audifonos,1,1290.84,alta
+VEN-00541,2026-01-21 23:36:00,CLI-0335,Cusco,marketplace,Audifonos,6,1548.85,baja
+VEN-00550,2026-01-25 04:32:00,CLI-0044,Cusco,app,Audifonos,2,254.79,media
+VEN-00537,2026-01-30 22:20:00,CLI-0018,La Libertad,marketplace,Teclado,3,2357.79,alta
+VEN-00525,2026-02-02 03:51:00,CLI-0278,Arequipa,app,Laptop,1,5099.8,alta
+VEN-00532,2026-02-17 13:08:00,CLI-0098,Piura,web,Mouse,2,820.55,media
+VEN-00543,2026-02-17 22:38:00,CLI-0285,Lima,marketplace,Monitor,7,2670.08,alta
+VEN-00544,2026-02-19 18:32:00,CLI-0168,Cusco,tienda,Mouse,5,972.54,baja
+VEN-00535,2026-02-20 20:52:00,CLI-0239,Piura,marketplace,SSD,3,1934.27,alta
+VEN-00554,2026-02-27 12:08:00,CLI-0343,Cusco,web,Impresora,5,67.69,alta
+VEN-00524,2026-03-07 14:19:00,CLI-0136,Loreto,marketplace,Router,7,2154.91,alta
+VEN-00557,2026-03-09 06:04:00,CLI-0048,Junin,app,Teclado,2,1642.45,baja
+VEN-00551,2026-03-09 21:10:00,CLI-0309,Junin,tienda,Impresora,3,4079.67,alta
+VEN-00528,2026-03-13 17:18:00,CLI-0124,Junin,web,Audifonos,3,822.24,media
+VEN-00531,2026-03-18 05:38:00,CLI-0057,La Libertad,app,Laptop,8,1114.31,alta
+VEN-00523,2026-03-20 05:34:00,CLI-0107,Arequipa,web,Router,3,3491.79,baja
+VEN-00538,2026-03-23 08:38:00,CLI-0068,Piura,app,Audifonos,3,3337.22,baja
+VEN-00560,2026-03-24 02:08:00,CLI-0195,Piura,web,SSD,4,3879.39,baja
+VEN-00540,2026-04-07 17:07:00,CLI-0049,Cusco,app,Mouse,4,2227.9,media
+VEN-00545,2026-04-28 02:46:00,CLI-0148,Piura,web,Teclado,4,2340.36,media
+VEN-00542,2026-04-30 02:29:00,CLI-0295,Loreto,web,Mouse,3,5197.28,alta
+VEN-00548,2026-05-03 04:43:00,CLI-0326,Junin,tienda,Audifonos,3,1106.24,media
+VEN-00522,2026-05-09 13:52:00,CLI-0041,Arequipa,marketplace,Monitor,4,3948.31,media
+VEN-00559,2026-05-16 13:20:00,CLI-0077,Junin,app,Impresora,2,2952.61,baja
+VEN-00553,2026-05-18 04:05:00,CLI-0240,Junin,app,Laptop,7,4293.5,media
+VEN-00529,2026-05-24 05:42:00,CLI-0087,La Libertad,marketplace,Audifonos,2,4821.52,baja
+VEN-00530,2026-05-27 11:59:00,CLI-0101,Lima,marketplace,Teclado,7,3984.26,media
+VEN-00539,2026-05-30 10:40:00,CLI-0263,Lima,app,Monitor,8,2534.5,media
+VEN-00558,2026-05-31 19:32:00,CLI-0200,Loreto,web,Monitor,5,4018.39,baja
+VEN-00546,2026-06-01 09:35:00,CLI-0064,Cusco,app,Mouse,8,4787.5,media
+VEN-00549,2026-06-04 19:45:00,CLI-0187,Cusco,tienda,Monitor,4,3105.5,alta
+VEN-00527,2026-06-05 21:38:00,CLI-0285,Cusco,tienda,Teclado,6,2970.95,baja
+VEN-00536,2026-06-17 07:58:00,CLI-0279,Arequipa,app,SSD,1,2907.57,baja
+VEN-00555,2026-06-17 23:57:00,CLI-0327,Arequipa,tienda,Monitor,6,3069.19,alta
+VEN-00526,2026-06-20 11:36:00,CLI-0133,Cusco,tienda,Router,7,5062.38,media
+VEN-00556,2026-06-21 07:17:00,CLI-0006,Loreto,marketplace,Mouse,1,471.4,baja
+VEN-00533,2026-06-22 06:06:00,CLI-0259,Arequipa,web,Teclado,1,4596.4,baja
+VEN-00521,2026-06-29 03:01:00,CLI-0162,Arequipa,marketplace,Router,6,3618.81,baja
+VEN-00420,2026-01-06 15:23:00,CLI-0314,Junin,web,Audifonos,6,2428.91,baja
+VEN-00409,2026-01-08 03:11:00,CLI-0145,Loreto,marketplace,Mouse,1,3930.24,media
+VEN-00417,2026-01-08 17:08:00,CLI-0254,Loreto,app,SSD,5,176.7,baja
+VEN-00414,2026-01-14 06:51:00,CLI-0020,Piura,marketplace,Teclado,7,3452.21,media
+VEN-00432,2026-01-17 09:20:00,CLI-0076,Lima,marketplace,Monitor,7,2740.94,media
+VEN-00402,2026-01-20 10:13:00,CLI-0254,Arequipa,tienda,Router,3,367.32,alta
+VEN-00427,2026-01-27 22:33:00,CLI-0266,Loreto,tienda,Teclado,1,1497.91,baja
+VEN-00438,2026-01-31 01:36:00,CLI-0210,Arequipa,web,Mouse,2,1468.93,baja
+VEN-00435,2026-02-07 02:46:00,CLI-0183,Junin,app,Mouse,3,979.1,media
+VEN-00410,2026-02-08 07:03:00,CLI-0080,Junin,marketplace,Laptop,3,3354.24,alta
+VEN-00404,2026-02-09 22:03:00,CLI-0117,Lima,app,Impresora,4,5358.57,alta
+VEN-00425,2026-02-17 16:35:00,CLI-0296,Arequipa,tienda,Router,7,1729.31,alta
+VEN-00423,2026-02-24 18:20:00,CLI-0210,Loreto,app,Router,3,3671.31,baja
+VEN-00418,2026-02-25 14:53:00,CLI-0022,Piura,tienda,Audifonos,6,4759.28,baja
+VEN-00403,2026-02-27 22:05:00,CLI-0163,Piura,web,Router,8,4306.73,baja
+VEN-00434,2026-03-03 22:14:00,CLI-0144,Loreto,tienda,Mouse,2,1079.68,baja
+VEN-00439,2026-03-07 12:44:00,CLI-0331,Lima,web,Mouse,5,1070.99,baja
+VEN-00426,2026-03-08 11:00:00,CLI-0082,Junin,app,Monitor,2,1722.2,alta
+VEN-00421,2026-03-14 22:21:00,CLI-0294,Loreto,tienda,Teclado,7,2352.03,alta
+VEN-00440,2026-03-15 02:32:00,CLI-0103,Piura,marketplace,Teclado,2,3979.1,baja
+VEN-00436,2026-03-16 12:28:00,CLI-0029,Loreto,app,Audifonos,3,1432.87,alta
+VEN-00428,2026-04-06 19:30:00,CLI-0134,Loreto,web,Teclado,7,937.01,media
+VEN-00407,2026-04-17 06:17:00,CLI-0259,Cusco,app,Monitor,1,4368.01,media
+VEN-00412,2026-04-21 01:09:00,CLI-0073,La Libertad,marketplace,Impresora,5,4775.84,baja
+VEN-00419,2026-04-28 22:34:00,CLI-0222,Junin,app,Router,4,1072.35,alta
+VEN-00401,2026-04-29 10:20:00,CLI-0243,Cusco,marketplace,Monitor,6,2586.09,baja
+VEN-00422,2026-05-04 19:34:00,CLI-0298,La Libertad,web,Mouse,8,2071.16,alta
+VEN-00430,2026-05-06 04:13:00,CLI-0093,Piura,web,Monitor,6,2715.81,alta
+VEN-00429,2026-05-16 21:37:00,CLI-0064,Cusco,app,Laptop,8,863.98,media
+VEN-00437,2026-05-17 09:38:00,CLI-0130,Lima,marketplace,Router,3,2819.67,alta
+VEN-00415,2026-05-24 03:50:00,CLI-0091,Piura,marketplace,Mouse,8,1551.47,baja
+VEN-00406,2026-06-01 10:52:00,CLI-0108,Loreto,app,Teclado,8,4608.34,media
+VEN-00405,2026-06-05 21:13:00,CLI-0119,Loreto,app,Router,4,1167.89,media
+VEN-00411,2026-06-06 09:37:00,CLI-0255,Loreto,app,Teclado,8,4066.49,alta
+VEN-00416,2026-06-14 09:17:00,CLI-0140,Lima,web,Laptop,3,2602.45,alta
+VEN-00433,2026-06-14 21:38:00,CLI-0067,La Libertad,web,Teclado,8,3945.62,baja
+VEN-00424,2026-06-17 02:17:00,CLI-0310,Piura,app,Monitor,2,3389.47,baja
+VEN-00431,2026-06-18 00:15:00,CLI-0300,Lima,marketplace,SSD,2,1025.98,media
+VEN-00413,2026-06-18 18:27:00,CLI-0084,Arequipa,marketplace,Mouse,3,3667.82,media
+VEN-00408,2026-06-22 13:41:00,CLI-0074,Loreto,tienda,SSD,5,53.99,alta
+VEN-00821,2026-01-04 17:45:00,CLI-0212,Cusco,web,Audifonos,6,4360.64,baja
+VEN-00819,2026-01-06 23:40:00,CLI-0344,Cusco,web,Teclado,5,4248.05,baja
+VEN-00822,2026-01-07 13:59:00,CLI-0290,Arequipa,marketplace,Monitor,1,2325.45,alta
+VEN-00809,2026-01-08 22:47:00,CLI-0145,Cusco,marketplace,Audifonos,1,5171.4,alta
+VEN-00824,2026-01-20 14:44:00,CLI-0297,Cusco,web,Mouse,2,1805.81,baja
+VEN-00804,2026-01-24 20:55:00,CLI-0275,Loreto,app,Monitor,7,2304.4,alta
+VEN-00813,2026-01-25 17:19:00,CLI-0318,Junin,app,SSD,5,38.22,media
+VEN-00820,2026-01-26 09:48:00,CLI-0324,Cusco,marketplace,Monitor,7,5265.08,baja
+VEN-00835,2026-01-27 04:38:00,CLI-0051,Cusco,tienda,SSD,6,5020.38,alta
+VEN-00811,2026-02-06 03:48:00,CLI-0028,Cusco,marketplace,Router,8,2529.31,media
+VEN-00829,2026-02-09 02:19:00,CLI-0232,La Libertad,tienda,Mouse,2,3034.32,baja
+VEN-00839,2026-02-09 20:11:00,CLI-0171,La Libertad,marketplace,Teclado,1,5014.77,alta
+VEN-00836,2026-02-11 10:30:00,CLI-0172,Arequipa,tienda,Router,6,1473.33,baja
+VEN-00834,2026-02-11 12:26:00,CLI-0127,Cusco,marketplace,SSD,7,2640.19,media
+VEN-00802,2026-02-16 16:13:00,CLI-0277,La Libertad,tienda,Teclado,8,3524.25,alta
+VEN-00828,2026-02-18 09:24:00,CLI-0307,Arequipa,marketplace,Teclado,3,1228.25,media
+VEN-00831,2026-02-24 11:21:00,CLI-0017,Piura,marketplace,Impresora,7,1942.21,alta
+VEN-00830,2026-02-24 12:32:00,CLI-0076,La Libertad,tienda,Impresora,1,2726.12,alta
+VEN-00825,2026-03-01 19:58:00,CLI-0030,Cusco,marketplace,Router,2,3267.13,media
+VEN-00837,2026-03-05 20:35:00,CLI-0189,Loreto,app,Router,2,4621.91,media
+VEN-00808,2026-03-09 15:10:00,CLI-0097,Piura,marketplace,Laptop,3,4025.5,baja
+VEN-00807,2026-03-11 03:07:00,CLI-0097,Loreto,tienda,Router,3,3155.39,media
+VEN-00801,2026-03-11 23:55:00,CLI-0240,Lima,marketplace,Mouse,3,89.26,alta
+VEN-00805,2026-03-14 17:32:00,CLI-0223,Arequipa,tienda,Mouse,2,3088.16,baja
+VEN-00826,2026-03-19 11:03:00,CLI-0148,Loreto,tienda,Laptop,3,4836.18,alta
+VEN-00806,2026-03-22 11:10:00,CLI-0277,La Libertad,web,Audifonos,8,1991.99,baja
+VEN-00838,2026-03-26 04:07:00,CLI-0070,La Libertad,app,SSD,4,5320.36,baja
+VEN-00810,2026-04-19 09:05:00,CLI-0334,Lima,marketplace,SSD,3,2788.06,alta
+VEN-00818,2026-04-21 19:20:00,CLI-0334,Cusco,tienda,SSD,8,703.31,alta
+VEN-00833,2026-04-22 09:44:00,CLI-0138,La Libertad,app,Router,8,4218.69,baja
+VEN-00812,2026-04-27 16:43:00,CLI-0147,La Libertad,app,Audifonos,5,472.0,alta
+VEN-00814,2026-05-02 16:47:00,CLI-0041,Lima,web,Mouse,6,3170.41,baja
+VEN-00840,2026-05-03 06:33:00,CLI-0196,Lima,marketplace,Laptop,5,1982.25,baja
+VEN-00803,2026-05-03 19:38:00,CLI-0348,Junin,app,Impresora,6,3696.11,alta
+VEN-00827,2026-05-06 07:30:00,CLI-0300,Cusco,marketplace,Monitor,3,3968.56,baja
+VEN-00817,2026-05-15 09:07:00,CLI-0026,Junin,web,Impresora,8,3928.46,baja
+VEN-00815,2026-05-20 22:42:00,CLI-0065,Lima,marketplace,SSD,3,1026.41,alta
+VEN-00816,2026-06-15 21:39:00,CLI-0114,Cusco,web,Monitor,8,1669.9,baja
+VEN-00832,2026-06-19 04:50:00,CLI-0161,Arequipa,web,Teclado,2,5225.65,alta
+VEN-00823,2026-06-24 07:01:00,CLI-0208,Loreto,marketplace,Monitor,6,4577.63,media
+VEN-00387,2026-01-10 19:41:00,CLI-0253,Junin,marketplace,SSD,6,3705.84,media
+VEN-00364,2026-01-20 05:32:00,CLI-0209,Cusco,app,Audifonos,4,5182.39,alta
+VEN-00375,2026-01-25 11:49:00,CLI-0240,Arequipa,tienda,Monitor,3,854.22,media
+VEN-00388,2026-01-31 11:24:00,CLI-0114,Arequipa,tienda,Teclado,1,2158.09,media
+VEN-00399,2026-02-08 20:13:00,CLI-0317,Lima,tienda,Router,2,2449.08,alta
+VEN-00389,2026-02-22 18:33:00,CLI-0167,Piura,app,Laptop,2,1946.53,alta
+VEN-00361,2026-02-23 04:59:00,CLI-0311,La Libertad,app,Monitor,8,1159.85,baja
+VEN-00384,2026-02-26 08:45:00,CLI-0085,Junin,tienda,Impresora,6,2100.36,alta
+VEN-00386,2026-03-05 15:01:00,CLI-0077,Arequipa,marketplace,SSD,3,4753.7,baja
+VEN-00393,2026-03-12 17:11:00,CLI-0016,Junin,web,SSD,5,76.81,alta
+VEN-00380,2026-03-28 00:30:00,CLI-0037,Lima,app,Laptop,1,4191.71,baja
+VEN-00381,2026-03-30 01:15:00,CLI-0146,Loreto,marketplace,Laptop,5,977.09,baja
+VEN-00366,2026-04-02 16:23:00,CLI-0267,La Libertad,web,Mouse,1,3253.49,media
+VEN-00376,2026-04-10 05:35:00,CLI-0067,Arequipa,web,Monitor,6,2554.68,baja
+VEN-00390,2026-04-10 06:00:00,CLI-0067,Piura,app,SSD,4,3895.46,baja
+VEN-00373,2026-04-12 17:47:00,CLI-0265,Piura,app,SSD,6,3303.32,media
+VEN-00369,2026-04-17 09:01:00,CLI-0256,Piura,tienda,Laptop,1,4782.9,alta
+VEN-00367,2026-05-01 06:51:00,CLI-0207,Lima,marketplace,Impresora,2,4202.39,media
+VEN-00394,2026-05-03 21:07:00,CLI-0078,La Libertad,web,Monitor,5,1350.06,media
+VEN-00372,2026-05-06 12:44:00,CLI-0178,Loreto,tienda,Laptop,7,3514.05,media
+VEN-00383,2026-05-11 09:46:00,CLI-0326,Lima,app,Monitor,5,2702.08,baja
+VEN-00365,2026-05-13 02:00:00,CLI-0247,Loreto,app,Impresora,4,1281.46,baja
+VEN-00398,2026-05-13 11:30:00,CLI-0049,Cusco,marketplace,Laptop,3,1328.3,alta
+VEN-00382,2026-05-15 11:09:00,CLI-0033,Lima,app,Teclado,3,795.04,media
+VEN-00400,2026-05-17 15:27:00,CLI-0263,Cusco,web,Audifonos,1,4437.57,media
+VEN-00385,2026-05-19 20:39:00,CLI-0221,Lima,web,Laptop,8,4433.77,alta
+VEN-00379,2026-05-21 22:33:00,CLI-0105,Arequipa,marketplace,Audifonos,3,781.42,media
+VEN-00371,2026-05-22 02:02:00,CLI-0084,Piura,web,Teclado,3,5348.04,alta
+VEN-00397,2026-05-25 20:26:00,CLI-0098,Loreto,app,Router,8,4384.52,alta
+VEN-00396,2026-05-28 00:57:00,CLI-0183,Lima,app,Monitor,5,3876.54,alta
+VEN-00363,2026-06-01 14:06:00,CLI-0095,Lima,marketplace,Router,7,526.13,baja
+VEN-00378,2026-06-07 22:40:00,CLI-0015,La Libertad,web,Teclado,2,2846.79,alta
+VEN-00370,2026-06-08 22:59:00,CLI-0344,Junin,marketplace,SSD,3,1375.07,media
+VEN-00362,2026-06-13 13:37:00,CLI-0020,La Libertad,web,Impresora,7,3311.82,media
+VEN-00391,2026-06-15 19:30:00,CLI-0096,Cusco,app,Teclado,5,4598.5,media
+VEN-00395,2026-06-17 07:38:00,CLI-0288,Junin,marketplace,Laptop,5,1130.46,media
+VEN-00377,2026-06-17 18:45:00,CLI-0276,Piura,web,Audifonos,8,3684.93,alta
+VEN-00392,2026-06-19 07:17:00,CLI-0330,Lima,web,Audifonos,5,4372.61,media
+VEN-00374,2026-06-20 18:54:00,CLI-0345,Piura,marketplace,Monitor,4,4738.75,alta
+VEN-00368,2026-06-25 10:25:00,CLI-0010,Junin,app,Audifonos,7,4228.57,media
+VEN-00863,2026-01-02 14:35:00,CLI-0231,Junin,marketplace,Laptop,2,3473.48,alta
+VEN-00846,2026-01-04 13:45:00,CLI-0110,Loreto,web,Impresora,1,2815.07,media
+VEN-00869,2026-01-10 08:35:00,CLI-0122,Piura,marketplace,Impresora,5,3144.57,baja
+VEN-00854,2026-01-11 03:23:00,CLI-0335,Arequipa,web,Teclado,8,4011.62,baja
+VEN-00862,2026-01-17 13:54:00,CLI-0129,Junin,app,Laptop,7,5376.99,alta
+VEN-00842,2026-01-23 12:26:00,CLI-0047,Cusco,marketplace,Audifonos,2,4379.1,baja
+VEN-00876,2026-01-24 20:17:00,CLI-0179,Piura,marketplace,Impresora,4,5479.62,baja
+VEN-00857,2026-01-26 20:11:00,CLI-0118,Lima,app,Impresora,3,4785.81,baja
+VEN-00859,2026-01-28 03:18:00,CLI-0335,Arequipa,marketplace,Monitor,4,4865.5,baja
+VEN-00880,2026-02-04 19:57:00,CLI-0033,Arequipa,app,Audifonos,8,4886.15,alta
+VEN-00843,2026-02-07 05:40:00,CLI-0195,Piura,marketplace,Router,4,1892.28,media
+VEN-00856,2026-02-08 03:50:00,CLI-0150,Loreto,marketplace,Teclado,6,2274.97,baja
+VEN-00855,2026-02-12 14:06:00,CLI-0085,Lima,app,Teclado,4,1677.18,media
+VEN-00874,2026-02-21 09:27:00,CLI-0119,La Libertad,web,SSD,4,2705.84,alta
+VEN-00847,2026-02-23 08:00:00,CLI-0230,Piura,web,Router,8,1796.61,alta
+VEN-00850,2026-02-27 21:40:00,CLI-0274,Junin,web,Router,4,4208.46,media
+VEN-00848,2026-02-28 13:33:00,CLI-0236,Junin,marketplace,Monitor,1,4235.4,media
+VEN-00849,2026-03-02 06:59:00,CLI-0100,Lima,tienda,Laptop,6,1394.2,media
+VEN-00877,2026-03-04 23:18:00,CLI-0016,Lima,tienda,Teclado,4,1374.13,media
+VEN-00868,2026-03-06 13:32:00,CLI-0331,La Libertad,web,Monitor,3,3602.6,alta
+VEN-00867,2026-03-22 19:58:00,CLI-0015,Lima,tienda,Impresora,8,3627.09,alta
+VEN-00872,2026-03-28 11:25:00,CLI-0316,Arequipa,tienda,SSD,5,5170.28,media
+VEN-00860,2026-04-07 12:13:00,CLI-0089,Lima,marketplace,Mouse,8,613.25,media
+VEN-00858,2026-04-16 19:49:00,CLI-0138,Cusco,tienda,SSD,1,595.52,baja
+VEN-00861,2026-05-14 11:31:00,CLI-0269,Piura,tienda,Audifonos,1,2606.67,baja
+VEN-00853,2026-05-24 08:59:00,CLI-0218,Cusco,web,SSD,6,3127.39,alta
+VEN-00879,2026-05-24 23:32:00,CLI-0270,Lima,marketplace,Mouse,8,4504.94,baja
+VEN-00871,2026-05-25 11:33:00,CLI-0092,Piura,app,Mouse,6,1342.21,alta
+VEN-00870,2026-05-28 09:43:00,CLI-0169,Lima,app,Mouse,7,169.41,media
+VEN-00844,2026-05-31 04:00:00,CLI-0066,Loreto,marketplace,Impresora,3,5111.15,alta
+VEN-00873,2026-06-02 09:59:00,CLI-0068,Piura,tienda,Monitor,6,533.06,alta
+VEN-00878,2026-06-04 18:20:00,CLI-0186,Piura,app,Impresora,4,991.99,alta
+VEN-00865,2026-06-09 00:54:00,CLI-0095,Loreto,marketplace,Audifonos,4,5452.84,media
+VEN-00845,2026-06-10 02:20:00,CLI-0069,Loreto,marketplace,Router,2,3210.07,alta
+VEN-00866,2026-06-11 21:24:00,CLI-0326,Piura,marketplace,Laptop,1,4748.55,alta
+VEN-00875,2026-06-12 00:49:00,CLI-0102,Lima,marketplace,Audifonos,6,3401.56,media
+VEN-00851,2026-06-20 10:56:00,CLI-0196,Junin,marketplace,Router,4,2111.9,baja
+VEN-00841,2026-06-20 11:40:00,CLI-0284,Junin,app,Teclado,8,4170.66,alta
+VEN-00852,2026-06-28 10:14:00,CLI-0146,Arequipa,app,SSD,2,5296.76,media
+VEN-00864,2026-06-28 13:52:00,CLI-0258,Piura,app,Router,2,1294.41,alta
+VEN-00062,2026-01-03 20:19:00,CLI-0348,La Libertad,tienda,Audifonos,6,2084.8,alta
+VEN-00054,2026-01-08 03:06:00,CLI-0098,Loreto,tienda,Teclado,1,4010.54,alta
+VEN-00057,2026-01-14 11:10:00,CLI-0005,Loreto,web,Impresora,4,4380.53,alta
+VEN-00059,2026-01-25 13:22:00,CLI-0250,Piura,tienda,Monitor,4,454.87,baja
+VEN-00048,2026-01-27 13:31:00,CLI-0044,Piura,app,Router,1,4815.05,alta
+VEN-00042,2026-01-28 02:06:00,CLI-0138,Arequipa,app,Laptop,6,1254.8,baja
+VEN-00074,2026-02-09 01:57:00,CLI-0031,Arequipa,app,Monitor,8,4298.34,baja
+VEN-00066,2026-02-09 10:03:00,CLI-0110,Lima,app,Router,3,2541.89,baja
+VEN-00047,2026-02-09 12:38:00,CLI-0118,Piura,marketplace,Teclado,1,5028.49,media
+VEN-00050,2026-02-14 13:29:00,CLI-0071,Cusco,tienda,Mouse,4,1853.49,media
+VEN-00043,2026-02-24 00:11:00,CLI-0270,Piura,web,Teclado,3,5483.19,alta
+VEN-00079,2026-03-01 00:10:00,CLI-0332,Lima,marketplace,Impresora,3,2404.27,alta
+VEN-00056,2026-03-03 14:19:00,CLI-0175,Piura,tienda,SSD,6,3198.72,alta
+VEN-00060,2026-03-06 01:55:00,CLI-0044,Lima,app,Audifonos,2,5101.02,alta
+VEN-00080,2026-03-14 20:22:00,CLI-0285,Arequipa,web,Mouse,4,2541.78,media
+VEN-00067,2026-03-16 17:15:00,CLI-0031,Piura,tienda,Laptop,5,3624.7,baja
+VEN-00075,2026-03-18 15:34:00,CLI-0129,Loreto,app,Monitor,3,2596.91,alta
+VEN-00044,2026-03-20 23:50:00,CLI-0124,Junin,marketplace,Impresora,3,5124.46,alta
+VEN-00077,2026-03-22 03:11:00,CLI-0347,Loreto,marketplace,SSD,7,2510.17,media
+VEN-00046,2026-03-24 21:59:00,CLI-0091,Lima,marketplace,Audifonos,3,3980.19,alta
+VEN-00072,2026-03-28 22:21:00,CLI-0087,Lima,app,SSD,3,1506.55,alta
+VEN-00041,2026-03-29 17:51:00,CLI-0225,Arequipa,web,SSD,4,1147.67,media
+VEN-00068,2026-04-17 04:38:00,CLI-0114,Junin,marketplace,SSD,1,3934.45,alta
+VEN-00051,2026-04-28 19:41:00,CLI-0121,Arequipa,app,Monitor,2,3319.94,media
+VEN-00061,2026-04-29 01:26:00,CLI-0094,Arequipa,web,Monitor,1,1412.02,media
+VEN-00065,2026-04-29 09:56:00,CLI-0142,Piura,marketplace,Impresora,2,2353.64,alta
+VEN-00063,2026-05-01 17:32:00,CLI-0054,Lima,web,Teclado,4,149.2,baja
+VEN-00049,2026-05-03 01:59:00,CLI-0281,Loreto,app,Router,5,3368.48,baja
+VEN-00053,2026-05-07 02:07:00,CLI-0236,Lima,tienda,Teclado,5,2197.8,baja
+VEN-00078,2026-05-10 17:25:00,CLI-0232,Junin,web,Mouse,5,139.41,media
+VEN-00064,2026-05-14 00:08:00,CLI-0320,Lima,app,Laptop,3,118.87,media
+VEN-00045,2026-05-17 09:18:00,CLI-0278,Piura,web,Teclado,5,4547.19,baja
+VEN-00069,2026-05-20 16:14:00,CLI-0219,Cusco,marketplace,Teclado,4,798.86,media
+VEN-00055,2026-05-26 23:55:00,CLI-0218,Cusco,tienda,SSD,2,4762.79,media
+VEN-00070,2026-06-09 16:15:00,CLI-0184,Arequipa,tienda,Router,6,3111.76,baja
+VEN-00058,2026-06-10 01:49:00,CLI-0245,Junin,web,Laptop,6,3545.68,media
+VEN-00073,2026-06-10 17:36:00,CLI-0155,Piura,marketplace,Impresora,5,3453.41,alta
+VEN-00076,2026-06-12 13:59:00,CLI-0254,Junin,tienda,Audifonos,3,1636.76,media
+VEN-00071,2026-06-16 02:07:00,CLI-0336,Lima,tienda,Audifonos,2,675.83,baja
+VEN-00052,2026-06-29 23:02:00,CLI-0222,Piura,app,Impresora,1,2677.0,media
+VEN-00313,2026-01-08 12:01:00,CLI-0258,Junin,web,Laptop,5,5024.67,baja
+VEN-00290,2026-01-10 02:26:00,CLI-0270,Arequipa,web,Teclado,3,3082.24,alta
+VEN-00307,2026-01-10 07:48:00,CLI-0308,Piura,app,Monitor,2,440.78,alta
+VEN-00304,2026-01-11 06:51:00,CLI-0347,Loreto,tienda,Router,3,494.17,baja
+VEN-00310,2026-01-16 15:17:00,CLI-0021,Junin,app,SSD,8,3665.95,alta
+VEN-00292,2026-01-19 17:18:00,CLI-0021,Loreto,tienda,Impresora,7,3515.5,baja
+VEN-00305,2026-01-20 17:35:00,CLI-0276,Cusco,web,Teclado,2,1665.34,alta
+VEN-00300,2026-01-23 03:57:00,CLI-0068,Cusco,marketplace,SSD,3,734.01,baja
+VEN-00301,2026-01-27 17:54:00,CLI-0179,Junin,marketplace,SSD,2,2158.19,media
+VEN-00288,2026-02-03 05:19:00,CLI-0053,Cusco,app,Audifonos,2,4076.16,baja
+VEN-00291,2026-02-06 09:32:00,CLI-0248,Cusco,tienda,Teclado,5,740.65,baja
+VEN-00284,2026-02-06 16:16:00,CLI-0071,Lima,app,Impresora,3,3822.72,baja
+VEN-00320,2026-02-07 06:42:00,CLI-0176,Loreto,tienda,Mouse,3,4132.73,baja
+VEN-00302,2026-02-18 06:40:00,CLI-0013,Lima,tienda,Teclado,7,2573.31,media
+VEN-00314,2026-02-27 08:27:00,CLI-0077,Junin,app,Router,5,3401.14,alta
+VEN-00317,2026-03-01 03:21:00,CLI-0100,Loreto,marketplace,SSD,1,1847.96,baja
+VEN-00285,2026-03-09 09:14:00,CLI-0278,Arequipa,tienda,Laptop,6,4657.74,baja
+VEN-00287,2026-03-15 21:49:00,CLI-0211,Cusco,app,Impresora,8,2780.68,media
+VEN-00296,2026-03-23 05:00:00,CLI-0006,Lima,web,Laptop,3,1681.31,baja
+VEN-00281,2026-03-25 19:15:00,CLI-0286,La Libertad,marketplace,SSD,5,391.07,alta
+VEN-00283,2026-04-04 00:16:00,CLI-0092,Lima,marketplace,Impresora,2,2987.27,media
+VEN-00282,2026-04-09 09:07:00,CLI-0059,Cusco,web,Mouse,4,1480.74,alta
+VEN-00306,2026-04-11 23:09:00,CLI-0253,La Libertad,tienda,SSD,1,2413.48,alta
+VEN-00319,2026-04-15 21:15:00,CLI-0086,Lima,app,Router,8,3906.45,baja
+VEN-00294,2026-04-20 12:25:00,CLI-0117,Arequipa,marketplace,Mouse,3,109.08,baja
+VEN-00298,2026-04-21 07:21:00,CLI-0197,Cusco,tienda,Impresora,7,4518.77,alta
+VEN-00286,2026-04-22 08:04:00,CLI-0157,Arequipa,app,Teclado,1,2040.14,baja
+VEN-00315,2026-04-26 02:54:00,CLI-0264,Cusco,app,Teclado,2,4743.52,baja
+VEN-00308,2026-05-05 16:33:00,CLI-0239,Piura,marketplace,Impresora,8,4888.3,media
+VEN-00311,2026-05-08 16:00:00,CLI-0288,Piura,app,Audifonos,1,4075.87,alta
+VEN-00309,2026-05-14 15:35:00,CLI-0107,Piura,app,Audifonos,6,509.27,media
+VEN-00297,2026-05-15 01:51:00,CLI-0089,Piura,app,Mouse,1,3370.46,baja
+VEN-00299,2026-05-16 15:52:00,CLI-0130,Junin,tienda,Mouse,8,1216.57,alta
+VEN-00318,2026-05-19 07:33:00,CLI-0218,Piura,tienda,Mouse,5,412.43,media
+VEN-00312,2026-06-06 10:56:00,CLI-0112,Junin,web,Impresora,6,3158.71,alta
+VEN-00293,2026-06-11 04:32:00,CLI-0199,Piura,app,Impresora,5,3797.47,alta
+VEN-00289,2026-06-11 08:16:00,CLI-0170,Lima,marketplace,Monitor,8,5362.8,alta
+VEN-00303,2026-06-15 09:46:00,CLI-0303,Junin,web,Mouse,3,3490.11,baja
+VEN-00295,2026-06-18 03:49:00,CLI-0042,Arequipa,tienda,SSD,2,4975.82,alta
+VEN-00316,2026-06-29 18:27:00,CLI-0181,Junin,app,Monitor,8,3429.47,media
+VEN-00724,2026-01-06 04:28:00,CLI-0316,Loreto,app,Audifonos,6,81.24,alta
+VEN-00733,2026-01-09 05:05:00,CLI-0139,Lima,web,Laptop,3,5349.83,baja
+VEN-00754,2026-01-12 15:24:00,CLI-0293,Junin,app,Teclado,2,463.55,baja
+VEN-00756,2026-01-14 00:30:00,CLI-0002,Lima,marketplace,SSD,7,2713.98,media
+VEN-00725,2026-01-18 08:11:00,CLI-0209,Loreto,app,Impresora,8,1873.66,media
+VEN-00730,2026-01-20 09:12:00,CLI-0138,Piura,marketplace,Mouse,6,649.6,media
+VEN-00722,2026-01-23 01:19:00,CLI-0264,Junin,marketplace,Router,3,4686.44,media
+VEN-00743,2026-01-23 05:26:00,CLI-0143,Cusco,web,Router,4,4994.46,media
+VEN-00746,2026-01-27 02:13:00,CLI-0150,Lima,tienda,Teclado,3,2939.07,alta
+VEN-00731,2026-01-27 13:22:00,CLI-0301,Piura,web,Mouse,6,2788.73,media
+VEN-00737,2026-01-27 13:44:00,CLI-0181,Piura,web,Monitor,3,3371.45,alta
+VEN-00729,2026-01-27 19:58:00,CLI-0003,Cusco,tienda,Laptop,3,2873.56,baja
+VEN-00748,2026-01-30 17:53:00,CLI-0315,La Libertad,tienda,Mouse,3,4966.92,baja
+VEN-00745,2026-02-01 04:49:00,CLI-0227,Arequipa,marketplace,Teclado,5,2164.92,alta
+VEN-00736,2026-02-08 09:30:00,CLI-0116,Junin,tienda,Router,4,3500.33,alta
+VEN-00751,2026-02-15 20:20:00,CLI-0302,La Libertad,tienda,SSD,5,167.43,baja
+VEN-00758,2026-02-18 08:20:00,CLI-0346,Loreto,marketplace,Mouse,6,3824.57,baja
+VEN-00723,2026-02-22 22:24:00,CLI-0016,Lima,app,Monitor,6,2832.93,baja
+VEN-00757,2026-02-28 22:49:00,CLI-0282,Cusco,marketplace,SSD,1,2242.79,media
+VEN-00735,2026-03-15 12:53:00,CLI-0066,Piura,marketplace,Monitor,7,1621.44,alta
+VEN-00739,2026-03-17 17:11:00,CLI-0197,Piura,web,Monitor,7,454.66,baja
+VEN-00738,2026-03-17 21:22:00,CLI-0295,Lima,tienda,Impresora,6,2190.74,alta
+VEN-00750,2026-03-22 05:45:00,CLI-0304,Piura,marketplace,Mouse,4,992.87,media
+VEN-00747,2026-04-01 14:33:00,CLI-0350,Loreto,app,Router,4,2182.06,media
+VEN-00759,2026-04-03 09:44:00,CLI-0092,Cusco,tienda,Impresora,3,3415.4,baja
+VEN-00727,2026-04-11 17:24:00,CLI-0159,Piura,app,Monitor,8,2347.08,alta
+VEN-00740,2026-04-18 08:20:00,CLI-0067,Piura,tienda,Mouse,6,1164.68,baja
+VEN-00734,2026-04-19 18:36:00,CLI-0210,Lima,tienda,Impresora,1,1098.56,media
+VEN-00741,2026-04-19 19:20:00,CLI-0221,Lima,tienda,Router,5,3771.93,baja
+VEN-00726,2026-04-29 01:55:00,CLI-0020,La Libertad,app,Mouse,7,860.17,media
+VEN-00721,2026-05-08 18:35:00,CLI-0336,Arequipa,tienda,SSD,3,2900.73,media
+VEN-00749,2026-05-10 06:16:00,CLI-0251,La Libertad,marketplace,Teclado,8,2875.27,baja
+VEN-00753,2026-05-23 21:00:00,CLI-0183,Junin,tienda,Audifonos,5,4316.83,baja
+VEN-00728,2026-05-31 01:35:00,CLI-0234,Cusco,app,Router,7,4357.62,alta
+VEN-00760,2026-05-31 09:17:00,CLI-0180,Piura,marketplace,Audifonos,3,1306.29,baja
+VEN-00744,2026-06-05 20:30:00,CLI-0271,Junin,app,Router,3,3858.69,alta
+VEN-00752,2026-06-06 08:07:00,CLI-0210,Lima,web,Laptop,5,3838.7,baja
+VEN-00732,2026-06-22 22:59:00,CLI-0191,Loreto,tienda,Monitor,8,4356.72,alta
+VEN-00742,2026-06-25 21:10:00,CLI-0084,Cusco,app,Impresora,7,235.5,baja
+VEN-00755,2026-06-26 08:44:00,CLI-0137,Lima,tienda,Impresora,6,1846.59,media
+VEN-00640,2026-01-09 23:21:00,CLI-0179,Junin,app,SSD,4,1874.92,baja
+VEN-00601,2026-01-13 00:27:00,CLI-0084,La Libertad,tienda,Laptop,1,5079.58,alta
+VEN-00604,2026-01-17 02:54:00,CLI-0059,Arequipa,marketplace,Audifonos,5,5347.78,baja
+VEN-00623,2026-01-31 00:14:00,CLI-0317,La Libertad,marketplace,Laptop,3,4042.5,alta
+VEN-00608,2026-02-13 05:32:00,CLI-0159,Lima,marketplace,Audifonos,8,178.24,alta
+VEN-00612,2026-02-18 04:42:00,CLI-0075,Piura,app,Impresora,6,357.45,alta
+VEN-00605,2026-03-01 01:19:00,CLI-0253,Junin,web,Audifonos,5,4509.32,baja
+VEN-00616,2026-03-04 06:20:00,CLI-0140,La Libertad,tienda,Monitor,3,3224.61,alta
+VEN-00617,2026-03-08 19:39:00,CLI-0230,Arequipa,tienda,Mouse,4,3391.46,alta
+VEN-00639,2026-03-13 23:12:00,CLI-0307,La Libertad,app,Mouse,5,5226.93,alta
+VEN-00633,2026-03-16 15:47:00,CLI-0177,Lima,web,Monitor,1,5262.0,media
+VEN-00629,2026-03-16 16:57:00,CLI-0131,Lima,web,Mouse,3,64.0,alta
+VEN-00638,2026-03-26 06:23:00,CLI-0330,Cusco,web,Teclado,8,616.84,alta
+VEN-00634,2026-03-31 02:32:00,CLI-0189,Cusco,app,Monitor,5,1150.95,baja
+VEN-00615,2026-04-13 22:47:00,CLI-0347,Loreto,web,Teclado,6,4121.77,alta
+VEN-00626,2026-04-15 17:14:00,CLI-0349,Piura,tienda,Mouse,4,4013.55,alta
+VEN-00602,2026-04-18 06:08:00,CLI-0184,Arequipa,marketplace,Mouse,4,2807.21,media
+VEN-00636,2026-05-02 14:17:00,CLI-0302,Loreto,app,Audifonos,6,670.86,baja
+VEN-00610,2026-05-09 18:43:00,CLI-0093,Loreto,tienda,Mouse,6,3219.5,alta
+VEN-00606,2026-05-10 12:23:00,CLI-0166,Lima,tienda,Audifonos,6,2215.67,alta
+VEN-00624,2026-05-12 15:40:00,CLI-0192,Junin,web,Impresora,1,2414.04,baja
+VEN-00628,2026-05-13 10:14:00,CLI-0006,Cusco,app,Teclado,8,1663.39,media
+VEN-00635,2026-05-13 18:29:00,CLI-0293,Piura,web,Mouse,2,4192.35,alta
+VEN-00621,2026-05-17 23:56:00,CLI-0278,Piura,tienda,Laptop,5,480.67,baja
+VEN-00632,2026-05-23 00:42:00,CLI-0088,Lima,tienda,Monitor,5,2542.79,alta
+VEN-00619,2026-05-23 15:26:00,CLI-0007,Loreto,web,Monitor,5,1192.38,media
+VEN-00611,2026-05-25 22:07:00,CLI-0327,La Libertad,web,Router,6,3180.78,baja
+VEN-00607,2026-05-29 17:12:00,CLI-0218,Loreto,web,Teclado,1,4831.09,media
+VEN-00631,2026-05-31 10:58:00,CLI-0300,La Libertad,web,Impresora,1,1372.59,media
+VEN-00622,2026-06-02 20:00:00,CLI-0335,Lima,web,Monitor,3,1614.87,alta
+VEN-00614,2026-06-02 20:04:00,CLI-0026,Loreto,tienda,Teclado,7,3853.61,baja
+VEN-00618,2026-06-03 19:12:00,CLI-0162,Arequipa,marketplace,SSD,2,2798.39,media
+VEN-00613,2026-06-06 15:38:00,CLI-0117,Lima,marketplace,SSD,5,129.45,baja
+VEN-00627,2026-06-08 06:33:00,CLI-0171,Piura,web,Mouse,7,507.77,alta
+VEN-00625,2026-06-10 22:47:00,CLI-0341,Cusco,tienda,Monitor,4,200.19,alta
+VEN-00609,2026-06-13 01:51:00,CLI-0324,Lima,web,Audifonos,1,4933.75,alta
+VEN-00620,2026-06-21 08:14:00,CLI-0034,Junin,app,Mouse,1,1377.82,baja
+VEN-00637,2026-06-24 21:23:00,CLI-0194,Arequipa,tienda,Monitor,4,5066.7,baja
+VEN-00603,2026-06-27 07:52:00,CLI-0096,Piura,tienda,Monitor,7,1107.75,alta
+VEN-00630,2026-06-28 03:46:00,CLI-0115,Junin,marketplace,Laptop,1,908.72,alta
+VEN-00568,2026-01-09 09:29:00,CLI-0336,Cusco,marketplace,Audifonos,2,3222.94,baja
+VEN-00563,2026-01-16 20:20:00,CLI-0084,Lima,app,Audifonos,6,4641.88,media
+VEN-00564,2026-01-18 09:20:00,CLI-0117,Loreto,web,Audifonos,6,5361.15,alta
+VEN-00598,2026-01-22 05:33:00,CLI-0324,Loreto,web,Mouse,6,2984.55,baja
+VEN-00581,2026-01-26 13:48:00,CLI-0340,Cusco,tienda,Router,5,943.99,alta
+VEN-00573,2026-01-29 06:53:00,CLI-0276,Lima,tienda,Router,2,152.92,media
+VEN-00582,2026-02-07 06:17:00,CLI-0255,Lima,marketplace,Teclado,2,1616.72,alta
+VEN-00577,2026-02-08 06:37:00,CLI-0098,Lima,app,Monitor,3,3794.24,media
+VEN-00569,2026-02-10 09:30:00,CLI-0039,Lima,marketplace,Monitor,1,3495.84,baja
+VEN-00580,2026-02-13 23:39:00,CLI-0325,Arequipa,marketplace,Teclado,1,2533.93,baja
+VEN-00562,2026-02-15 05:12:00,CLI-0164,La Libertad,app,Router,6,1886.81,media
+VEN-00571,2026-02-16 19:10:00,CLI-0294,La Libertad,tienda,Teclado,7,2782.34,media
+VEN-00570,2026-02-18 15:10:00,CLI-0217,Piura,tienda,Teclado,8,2201.89,media
+VEN-00594,2026-02-20 19:09:00,CLI-0148,Lima,web,Laptop,3,3619.9,media
+VEN-00585,2026-02-22 21:04:00,CLI-0175,Arequipa,app,Impresora,5,427.73,media
+VEN-00565,2026-02-23 07:12:00,CLI-0310,Piura,marketplace,SSD,2,5133.31,alta
+VEN-00583,2026-03-05 02:14:00,CLI-0015,Junin,marketplace,Audifonos,2,1264.06,alta
+VEN-00579,2026-03-10 19:30:00,CLI-0079,Arequipa,tienda,SSD,2,3989.7,baja
+VEN-00597,2026-03-11 03:22:00,CLI-0117,Cusco,tienda,Mouse,2,610.8,baja
+VEN-00584,2026-03-11 08:29:00,CLI-0121,Arequipa,marketplace,Mouse,5,3774.36,baja
+VEN-00587,2026-03-12 18:49:00,CLI-0099,La Libertad,marketplace,Audifonos,5,1098.64,media
+VEN-00595,2026-03-13 07:36:00,CLI-0104,Junin,marketplace,Router,2,5016.58,baja
+VEN-00591,2026-03-13 10:16:00,CLI-0281,Arequipa,marketplace,Router,6,1499.51,media
+VEN-00600,2026-03-24 04:19:00,CLI-0054,Junin,marketplace,Monitor,2,5309.1,media
+VEN-00574,2026-03-27 05:48:00,CLI-0117,Junin,marketplace,Teclado,3,100.56,alta
+VEN-00566,2026-03-27 11:43:00,CLI-0316,Cusco,marketplace,Impresora,3,656.07,media
+VEN-00589,2026-04-01 14:33:00,CLI-0323,Cusco,tienda,Mouse,5,144.81,alta
+VEN-00575,2026-04-06 07:22:00,CLI-0054,Lima,app,Monitor,5,2883.91,media
+VEN-00593,2026-04-16 01:44:00,CLI-0176,Cusco,marketplace,Laptop,1,2528.28,media
+VEN-00578,2026-05-13 12:44:00,CLI-0080,Cusco,web,SSD,3,556.07,baja
+VEN-00590,2026-05-18 21:32:00,CLI-0026,La Libertad,web,Mouse,1,2898.36,baja
+VEN-00576,2026-05-26 09:59:00,CLI-0273,La Libertad,tienda,Monitor,5,4031.34,alta
+VEN-00561,2026-06-01 03:41:00,CLI-0009,Cusco,web,Mouse,7,3358.92,media
+VEN-00588,2026-06-04 00:01:00,CLI-0177,Lima,marketplace,Audifonos,2,4775.37,alta
+VEN-00592,2026-06-06 09:25:00,CLI-0268,Loreto,marketplace,SSD,2,2259.3,alta
+VEN-00596,2026-06-08 03:21:00,CLI-0246,Arequipa,app,Monitor,1,4103.49,baja
+VEN-00599,2026-06-13 02:41:00,CLI-0077,Cusco,app,Impresora,2,1856.66,alta
+VEN-00586,2026-06-14 20:57:00,CLI-0240,Junin,marketplace,Teclado,6,2701.41,baja
+VEN-00567,2026-06-15 10:05:00,CLI-0151,Junin,marketplace,Monitor,4,2581.05,baja
+VEN-00572,2026-06-17 00:12:00,CLI-0338,Junin,web,Router,1,5047.7,baja
+VEN-00009,2026-01-03 05:43:00,CLI-0279,Piura,web,Monitor,8,4498.35,alta
+VEN-00017,2026-01-05 09:48:00,CLI-0277,Cusco,tienda,Audifonos,2,2715.49,baja
+VEN-00038,2026-01-06 04:08:00,CLI-0082,Cusco,app,Laptop,2,2414.03,alta
+VEN-00012,2026-01-07 08:17:00,CLI-0320,Cusco,web,Mouse,5,1968.6,baja
+VEN-00001,2026-01-09 00:03:00,CLI-0345,Junin,web,Audifonos,8,1034.99,baja
+VEN-00034,2026-01-09 02:07:00,CLI-0219,Lima,web,Impresora,2,4126.04,baja
+VEN-00024,2026-01-15 21:30:00,CLI-0090,Junin,tienda,Monitor,1,3770.29,media
+VEN-00018,2026-01-16 20:00:00,CLI-0337,Junin,web,Mouse,7,3014.32,baja
+VEN-00022,2026-01-27 09:11:00,CLI-0014,Loreto,app,Laptop,2,3690.86,baja
+VEN-00025,2026-02-02 07:50:00,CLI-0051,La Libertad,marketplace,Impresora,4,4922.6,media
+VEN-00002,2026-02-04 19:50:00,CLI-0206,La Libertad,web,Monitor,5,2583.63,alta
+VEN-00031,2026-02-15 14:25:00,CLI-0098,La Libertad,marketplace,Monitor,8,3369.52,baja
+VEN-00015,2026-02-19 09:30:00,CLI-0134,La Libertad,tienda,Laptop,2,2075.86,alta
+VEN-00016,2026-02-27 05:48:00,CLI-0022,Cusco,tienda,SSD,4,2963.22,baja
+VEN-00003,2026-03-08 23:44:00,CLI-0057,Lima,tienda,Impresora,5,1648.78,baja
+VEN-00010,2026-03-09 00:41:00,CLI-0028,La Libertad,marketplace,Audifonos,8,5240.38,alta
+VEN-00013,2026-03-29 01:51:00,CLI-0037,Arequipa,app,Mouse,7,270.67,alta
+VEN-00037,2026-03-30 12:02:00,CLI-0265,Junin,marketplace,Monitor,4,3099.43,baja
+VEN-00027,2026-04-07 09:00:00,CLI-0306,Loreto,web,SSD,3,1725.85,media
+VEN-00006,2026-04-12 06:23:00,CLI-0224,Cusco,app,Teclado,1,5183.37,media
+VEN-00028,2026-04-22 11:13:00,CLI-0173,Lima,marketplace,Router,4,3735.25,alta
+VEN-00023,2026-04-23 11:16:00,CLI-0100,Junin,tienda,Teclado,3,4269.8,alta
+VEN-00019,2026-04-25 20:22:00,CLI-0142,Lima,tienda,Laptop,4,760.3,alta
+VEN-00014,2026-04-30 00:40:00,CLI-0060,Lima,tienda,Audifonos,3,1572.03,alta
+VEN-00007,2026-05-06 03:34:00,CLI-0143,Cusco,tienda,SSD,7,478.32,baja
+VEN-00021,2026-05-11 02:50:00,CLI-0257,Junin,app,Laptop,7,455.57,baja
+VEN-00033,2026-05-11 15:08:00,CLI-0067,Piura,marketplace,SSD,7,3066.59,alta
+VEN-00005,2026-05-13 07:16:00,CLI-0203,Loreto,app,Teclado,6,3908.77,media
+VEN-00039,2026-05-15 17:27:00,CLI-0181,Junin,app,Audifonos,6,4815.25,alta
+VEN-00029,2026-05-24 08:12:00,CLI-0046,Piura,tienda,Impresora,3,4846.59,alta
+VEN-00032,2026-05-25 09:56:00,CLI-0273,Cusco,app,Laptop,7,2130.52,alta
+VEN-00008,2026-05-31 04:39:00,CLI-0007,Lima,tienda,Monitor,5,5245.33,baja
+VEN-00035,2026-05-31 09:24:00,CLI-0049,La Libertad,marketplace,Router,2,426.62,baja
+VEN-00011,2026-06-04 23:09:00,CLI-0253,Junin,app,Monitor,1,588.44,alta
+VEN-00026,2026-06-05 07:25:00,CLI-0182,Arequipa,marketplace,SSD,4,759.71,baja
+VEN-00036,2026-06-08 21:04:00,CLI-0266,Piura,tienda,Teclado,3,3309.94,media
+VEN-00004,2026-06-10 16:29:00,CLI-0138,Lima,marketplace,Impresora,3,3564.22,alta
+VEN-00020,2026-06-11 07:18:00,CLI-0259,Piura,tienda,Teclado,5,4242.46,alta
+VEN-00040,2026-06-12 14:01:00,CLI-0336,Arequipa,app,Monitor,4,2714.42,alta
+VEN-00030,2026-06-21 02:08:00,CLI-0348,Lima,web,Mouse,4,2179.26,media
+VEN-00664,2026-01-09 05:48:00,CLI-0163,Piura,tienda,Laptop,2,1614.39,baja
+VEN-00659,2026-01-13 18:37:00,CLI-0056,Junin,tienda,Laptop,7,2089.9,alta
+VEN-00655,2026-01-16 19:27:00,CLI-0319,Junin,marketplace,Teclado,1,659.67,media
+VEN-00645,2026-01-19 02:43:00,CLI-0016,Piura,web,Router,4,4160.6,baja
+VEN-00649,2026-01-24 10:36:00,CLI-0099,La Libertad,marketplace,Teclado,3,1983.28,alta
+VEN-00674,2026-01-28 13:07:00,CLI-0119,Lima,tienda,Monitor,3,3746.69,baja
+VEN-00663,2026-02-07 01:03:00,CLI-0025,La Libertad,web,Monitor,4,2348.51,alta
+VEN-00668,2026-03-01 01:07:00,CLI-0031,Junin,web,Mouse,4,3899.08,media
+VEN-00646,2026-03-01 03:47:00,CLI-0328,Piura,marketplace,Mouse,5,3230.37,baja
+VEN-00660,2026-03-03 05:10:00,CLI-0154,Junin,app,Router,8,1358.93,baja
+VEN-00667,2026-03-03 06:28:00,CLI-0246,La Libertad,marketplace,Impresora,4,3891.38,media
+VEN-00654,2026-03-06 01:21:00,CLI-0246,La Libertad,app,Monitor,5,137.1,baja
+VEN-00653,2026-03-08 19:22:00,CLI-0239,Cusco,app,Audifonos,2,2971.72,baja
+VEN-00666,2026-03-09 02:58:00,CLI-0211,La Libertad,tienda,Audifonos,4,3546.99,media
+VEN-00662,2026-03-09 10:24:00,CLI-0117,Piura,marketplace,SSD,7,3675.16,baja
+VEN-00651,2026-03-10 03:24:00,CLI-0139,Junin,tienda,SSD,1,4026.98,media
+VEN-00658,2026-03-12 23:47:00,CLI-0226,Piura,tienda,Laptop,7,809.43,media
+VEN-00656,2026-03-20 05:15:00,CLI-0218,La Libertad,app,Impresora,7,4243.45,media
+VEN-00680,2026-03-22 06:08:00,CLI-0069,Piura,tienda,Mouse,8,474.56,alta
+VEN-00676,2026-03-23 21:56:00,CLI-0273,Lima,web,Audifonos,2,319.28,alta
+VEN-00679,2026-03-27 10:08:00,CLI-0226,Loreto,web,Laptop,7,1173.46,alta
+VEN-00677,2026-04-04 10:10:00,CLI-0228,Lima,marketplace,Router,3,3458.03,baja
+VEN-00661,2026-04-11 23:14:00,CLI-0026,Lima,web,Impresora,4,662.3,media
+VEN-00673,2026-05-02 10:21:00,CLI-0083,Piura,marketplace,Monitor,4,4204.09,baja
+VEN-00652,2026-05-05 09:24:00,CLI-0107,Piura,app,Monitor,7,5380.42,baja
+VEN-00647,2026-05-05 19:12:00,CLI-0016,Cusco,marketplace,Laptop,7,1642.6,alta
+VEN-00642,2026-05-06 21:26:00,CLI-0157,Piura,web,Monitor,4,4538.11,alta
+VEN-00669,2026-05-07 18:34:00,CLI-0202,Junin,marketplace,SSD,6,1174.24,baja
+VEN-00644,2026-05-09 00:19:00,CLI-0018,Lima,marketplace,Laptop,7,4067.82,media
+VEN-00641,2026-05-14 20:08:00,CLI-0089,Arequipa,app,Teclado,5,1630.46,alta
+VEN-00671,2026-05-16 02:30:00,CLI-0277,Lima,marketplace,Mouse,5,2380.41,media
+VEN-00650,2026-05-19 08:46:00,CLI-0030,Piura,app,Router,6,2908.33,media
+VEN-00665,2026-05-20 13:47:00,CLI-0241,La Libertad,web,Mouse,8,1252.08,media
+VEN-00643,2026-05-20 19:06:00,CLI-0143,Cusco,web,Impresora,7,333.67,media
+VEN-00672,2026-05-21 06:37:00,CLI-0321,La Libertad,app,SSD,5,661.47,alta
+VEN-00670,2026-05-21 17:33:00,CLI-0065,Piura,marketplace,SSD,5,4221.58,media
+VEN-00648,2026-05-27 04:30:00,CLI-0311,Lima,tienda,Impresora,2,4350.11,alta
+VEN-00657,2026-06-21 05:55:00,CLI-0300,Junin,marketplace,Audifonos,6,5284.72,baja
+VEN-00678,2026-06-27 17:23:00,CLI-0184,Loreto,web,Router,1,1281.11,baja
+VEN-00675,2026-06-30 03:28:00,CLI-0097,Lima,marketplace,Impresora,8,1129.39,alta
+VEN-00201,2026-01-03 07:29:00,CLI-0305,La Libertad,tienda,Mouse,6,425.44,baja
+VEN-00202,2026-01-10 01:58:00,CLI-0077,Junin,web,Mouse,3,4393.64,media
+VEN-00228,2026-01-11 09:04:00,CLI-0123,Loreto,tienda,Teclado,6,785.24,baja
+VEN-00204,2026-01-11 19:55:00,CLI-0037,Junin,marketplace,Router,5,3062.27,media
+VEN-00233,2026-01-12 08:01:00,CLI-0191,Arequipa,tienda,Audifonos,7,3228.26,media
+VEN-00213,2026-01-12 17:04:00,CLI-0041,Loreto,tienda,Router,4,3774.04,baja
+VEN-00235,2026-01-27 15:46:00,CLI-0269,Loreto,app,Laptop,5,4159.1,alta
+VEN-00223,2026-02-07 17:46:00,CLI-0042,La Libertad,tienda,Laptop,6,151.04,media
+VEN-00217,2026-02-12 15:10:00,CLI-0186,Lima,web,Impresora,8,1192.7,baja
+VEN-00209,2026-02-17 21:21:00,CLI-0044,Loreto,marketplace,SSD,7,4588.44,alta
+VEN-00205,2026-02-23 06:24:00,CLI-0234,Loreto,web,Audifonos,3,684.41,alta
+VEN-00240,2026-02-24 08:56:00,CLI-0283,Loreto,app,Teclado,7,1139.65,alta
+VEN-00221,2026-02-24 15:42:00,CLI-0169,La Libertad,tienda,Mouse,3,3020.3,media
+VEN-00234,2026-02-26 17:13:00,CLI-0142,Arequipa,app,Laptop,5,5369.84,alta
+VEN-00236,2026-02-26 20:12:00,CLI-0037,Cusco,marketplace,Mouse,5,3276.6,baja
+VEN-00222,2026-03-11 05:18:00,CLI-0152,Cusco,marketplace,Laptop,4,1297.18,media
+VEN-00231,2026-03-13 18:40:00,CLI-0302,Junin,web,Monitor,3,4436.35,media
+VEN-00203,2026-03-27 01:48:00,CLI-0306,Cusco,tienda,Laptop,4,833.67,alta
+VEN-00212,2026-03-30 18:18:00,CLI-0074,Cusco,marketplace,Impresora,1,2705.6,media
+VEN-00215,2026-03-31 11:40:00,CLI-0146,Junin,web,Monitor,4,4193.39,media
+VEN-00207,2026-04-02 02:57:00,CLI-0173,Cusco,app,Mouse,5,4412.62,alta
+VEN-00224,2026-04-02 05:25:00,CLI-0023,Loreto,app,Audifonos,5,759.81,media
+VEN-00211,2026-04-04 02:34:00,CLI-0068,Loreto,app,Laptop,8,2826.22,baja
+VEN-00210,2026-04-09 19:09:00,CLI-0110,Arequipa,marketplace,Impresora,8,1008.68,alta
+VEN-00208,2026-04-11 16:41:00,CLI-0205,Piura,app,Mouse,4,566.03,alta
+VEN-00232,2026-04-16 14:32:00,CLI-0057,Lima,marketplace,Mouse,7,4325.35,media
+VEN-00219,2026-04-17 03:08:00,CLI-0058,Junin,web,Teclado,4,3332.3,alta
+VEN-00220,2026-04-19 08:40:00,CLI-0130,La Libertad,web,Mouse,2,1568.3,media
+VEN-00227,2026-04-27 08:37:00,CLI-0122,La Libertad,web,Router,5,2987.68,baja
+VEN-00237,2026-05-02 20:51:00,CLI-0120,Lima,web,Impresora,7,871.69,media
+VEN-00226,2026-05-09 16:06:00,CLI-0132,Junin,marketplace,Laptop,7,3278.31,media
+VEN-00230,2026-05-11 11:55:00,CLI-0200,Junin,app,Mouse,5,663.65,baja
+VEN-00216,2026-05-12 10:15:00,CLI-0281,Junin,tienda,Monitor,5,2094.94,media
+VEN-00239,2026-05-21 04:05:00,CLI-0197,Junin,tienda,Teclado,2,1309.11,media
+VEN-00214,2026-05-23 04:39:00,CLI-0133,Cusco,marketplace,Laptop,7,3706.97,baja
+VEN-00229,2026-05-25 04:16:00,CLI-0268,Junin,marketplace,Laptop,6,1129.71,media
+VEN-00206,2026-06-01 10:13:00,CLI-0212,Loreto,web,Mouse,1,4700.82,alta
+VEN-00218,2026-06-16 09:32:00,CLI-0153,La Libertad,marketplace,Monitor,6,1222.98,media
+VEN-00225,2026-06-18 21:11:00,CLI-0253,Lima,marketplace,Mouse,3,2675.84,alta
+VEN-00238,2026-06-26 04:07:00,CLI-0324,Piura,marketplace,Impresora,4,3975.42,alta
+VEN-00248,2026-01-09 19:53:00,CLI-0268,Piura,marketplace,Impresora,5,939.35,media
+VEN-00263,2026-02-03 11:27:00,CLI-0231,Loreto,web,Monitor,2,2237.31,media
+VEN-00278,2026-02-05 13:10:00,CLI-0193,Loreto,app,SSD,1,2060.97,media
+VEN-00270,2026-02-09 07:21:00,CLI-0036,La Libertad,app,Monitor,2,1790.58,baja
+VEN-00277,2026-02-10 13:10:00,CLI-0009,Piura,web,Router,1,1204.33,baja
+VEN-00244,2026-02-11 14:29:00,CLI-0053,Junin,web,Laptop,7,3135.25,baja
+VEN-00257,2026-02-12 02:52:00,CLI-0177,Junin,app,Impresora,3,1928.07,alta
+VEN-00279,2026-02-20 08:50:00,CLI-0310,Lima,web,Router,6,3935.33,alta
+VEN-00249,2026-02-25 02:50:00,CLI-0058,Arequipa,web,Router,4,3065.98,baja
+VEN-00241,2026-03-01 16:19:00,CLI-0086,Junin,web,Impresora,7,1401.33,alta
+VEN-00258,2026-03-04 01:03:00,CLI-0192,Arequipa,web,Monitor,4,5211.36,alta
+VEN-00276,2026-03-07 13:32:00,CLI-0196,Piura,marketplace,Laptop,8,2710.01,alta
+VEN-00255,2026-03-09 21:42:00,CLI-0277,Junin,tienda,Monitor,8,3564.42,alta
+VEN-00267,2026-03-10 16:19:00,CLI-0120,Arequipa,web,Mouse,3,2611.74,baja
+VEN-00275,2026-03-17 03:51:00,CLI-0205,Arequipa,app,Mouse,7,2485.82,media
+VEN-00271,2026-03-20 10:04:00,CLI-0152,La Libertad,web,Impresora,5,5475.06,baja
+VEN-00264,2026-03-24 04:01:00,CLI-0288,Junin,web,Teclado,5,1755.95,baja
+VEN-00268,2026-03-26 16:57:00,CLI-0035,Arequipa,web,Monitor,1,1224.1,media
+VEN-00266,2026-03-26 18:25:00,CLI-0025,Lima,marketplace,Router,8,2704.45,media
+VEN-00250,2026-03-28 13:57:00,CLI-0054,Junin,tienda,Audifonos,3,620.47,baja
+VEN-00243,2026-03-28 14:53:00,CLI-0187,La Libertad,marketplace,Monitor,6,2733.49,alta
+VEN-00252,2026-03-31 04:12:00,CLI-0225,Lima,tienda,Impresora,6,3275.98,media
+VEN-00265,2026-04-08 19:52:00,CLI-0190,Arequipa,marketplace,Mouse,2,5437.13,baja
+VEN-00242,2026-04-16 01:27:00,CLI-0326,Junin,tienda,Impresora,4,2541.35,media
+VEN-00273,2026-04-22 18:06:00,CLI-0179,Cusco,app,Impresora,6,3076.35,baja
+VEN-00262,2026-05-01 18:31:00,CLI-0078,Arequipa,app,Audifonos,5,774.02,media
+VEN-00280,2026-05-02 21:22:00,CLI-0296,La Libertad,web,Laptop,2,942.12,baja
+VEN-00253,2026-05-08 02:03:00,CLI-0294,Loreto,marketplace,Router,5,3578.45,baja
+VEN-00245,2026-05-09 16:21:00,CLI-0120,Junin,tienda,SSD,6,1471.07,baja
+VEN-00251,2026-05-14 19:49:00,CLI-0164,La Libertad,app,Router,2,829.51,media
+VEN-00254,2026-05-27 08:27:00,CLI-0200,Junin,web,Router,4,5497.19,alta
+VEN-00260,2026-05-30 23:48:00,CLI-0224,Junin,marketplace,Impresora,5,855.97,baja
+VEN-00259,2026-06-01 19:26:00,CLI-0075,Cusco,tienda,Impresora,5,53.82,media
+VEN-00261,2026-06-04 00:30:00,CLI-0019,Lima,app,Impresora,4,2967.64,baja
+VEN-00274,2026-06-04 12:17:00,CLI-0269,Lima,marketplace,Mouse,7,747.31,baja
+VEN-00272,2026-06-10 09:39:00,CLI-0273,Loreto,web,Router,6,2034.49,media
+VEN-00256,2026-06-12 00:19:00,CLI-0150,Arequipa,web,SSD,2,1253.79,baja
+VEN-00269,2026-06-15 02:13:00,CLI-0259,Arequipa,marketplace,SSD,3,4184.82,alta
+VEN-00247,2026-06-17 10:19:00,CLI-0121,La Libertad,tienda,SSD,2,4405.14,baja
+VEN-00246,2026-06-27 09:58:00,CLI-0028,Piura,app,SSD,8,1181.14,media
+VEN-00520,2026-01-07 03:05:00,CLI-0109,Piura,tienda,Router,2,1360.13,alta
+VEN-00502,2026-01-24 22:47:00,CLI-0105,La Libertad,marketplace,Mouse,4,1584.06,media
+VEN-00513,2026-02-02 20:46:00,CLI-0061,Loreto,marketplace,Teclado,4,4034.73,alta
+VEN-00518,2026-02-05 02:24:00,CLI-0105,Arequipa,app,Laptop,7,2359.05,alta
+VEN-00504,2026-02-08 00:56:00,CLI-0105,Loreto,web,Router,8,664.0,media
+VEN-00499,2026-02-08 13:56:00,CLI-0013,Junin,tienda,Impresora,8,5045.97,alta
+VEN-00481,2026-02-11 16:56:00,CLI-0308,Cusco,tienda,Monitor,6,5335.86,baja
+VEN-00501,2026-02-12 03:14:00,CLI-0186,Lima,tienda,Audifonos,7,2886.56,media
+VEN-00515,2026-02-16 22:02:00,CLI-0011,Piura,web,Teclado,7,2440.94,baja
+VEN-00495,2026-02-21 01:40:00,CLI-0247,Piura,tienda,Audifonos,7,2028.63,baja
+VEN-00482,2026-02-23 02:12:00,CLI-0289,Piura,app,Router,4,3013.03,media
+VEN-00510,2026-03-01 20:46:00,CLI-0232,La Libertad,web,SSD,6,3323.84,baja
+VEN-00508,2026-03-03 03:44:00,CLI-0094,La Libertad,tienda,Router,2,2290.83,alta
+VEN-00511,2026-03-09 06:51:00,CLI-0241,La Libertad,app,SSD,1,1850.29,baja
+VEN-00484,2026-03-16 17:01:00,CLI-0262,La Libertad,web,Impresora,8,1930.0,media
+VEN-00509,2026-03-23 01:39:00,CLI-0062,Arequipa,web,Mouse,3,3634.91,media
+VEN-00514,2026-03-28 04:13:00,CLI-0133,La Libertad,web,Teclado,4,2563.22,baja
+VEN-00487,2026-04-02 01:39:00,CLI-0292,Cusco,marketplace,SSD,2,2210.22,media
+VEN-00491,2026-04-06 09:05:00,CLI-0172,Piura,app,Router,1,713.97,media
+VEN-00486,2026-04-10 03:16:00,CLI-0021,Cusco,tienda,Teclado,1,4581.33,alta
+VEN-00505,2026-04-12 11:30:00,CLI-0188,Piura,tienda,Impresora,1,3995.43,baja
+VEN-00493,2026-04-30 02:04:00,CLI-0345,Piura,web,Mouse,7,5089.19,baja
+VEN-00500,2026-05-04 17:52:00,CLI-0350,La Libertad,app,Mouse,8,3876.97,media
+VEN-00506,2026-05-05 16:46:00,CLI-0109,Piura,web,Router,7,2264.38,baja
+VEN-00485,2026-05-06 15:00:00,CLI-0132,La Libertad,tienda,Audifonos,5,3666.93,media
+VEN-00519,2026-05-07 04:08:00,CLI-0235,Piura,app,Audifonos,8,2490.21,media
+VEN-00492,2026-05-11 09:10:00,CLI-0070,Piura,app,Teclado,8,2630.47,alta
+VEN-00494,2026-05-17 05:42:00,CLI-0061,Arequipa,tienda,Teclado,7,1492.29,media
+VEN-00516,2026-05-25 08:52:00,CLI-0190,Piura,web,Impresora,6,4512.49,alta
+VEN-00497,2026-05-30 01:34:00,CLI-0195,Piura,tienda,Impresora,8,4031.81,media
+VEN-00490,2026-05-30 21:24:00,CLI-0113,La Libertad,app,Router,3,3339.17,media
+VEN-00512,2026-06-02 03:49:00,CLI-0178,La Libertad,web,Teclado,3,4272.86,baja
+VEN-00489,2026-06-02 21:21:00,CLI-0225,Lima,tienda,Router,5,1999.34,alta
+VEN-00496,2026-06-04 00:39:00,CLI-0317,Arequipa,app,Router,8,4315.12,baja
+VEN-00488,2026-06-19 15:46:00,CLI-0233,Lima,app,Laptop,7,4720.95,baja
+VEN-00483,2026-06-20 18:21:00,CLI-0014,Loreto,web,Audifonos,1,4108.48,baja
+VEN-00517,2026-06-23 05:40:00,CLI-0342,Cusco,marketplace,Laptop,7,690.47,media
+VEN-00498,2026-06-24 06:20:00,CLI-0283,Junin,app,Audifonos,6,3896.35,media
+VEN-00507,2026-06-26 18:03:00,CLI-0082,Piura,marketplace,Mouse,7,1531.9,baja
+VEN-00503,2026-06-29 18:47:00,CLI-0150,Junin,tienda,Audifonos,3,3594.4,alta
+VEN-00321,2026-01-05 21:46:00,CLI-0320,Lima,tienda,Monitor,1,986.98,media
+VEN-00329,2026-01-08 21:40:00,CLI-0338,Piura,app,Laptop,8,3979.84,baja
+VEN-00324,2026-01-26 14:46:00,CLI-0169,Arequipa,web,Laptop,3,1419.7,baja
+VEN-00339,2026-02-01 07:05:00,CLI-0055,Piura,web,Router,3,880.91,alta
+VEN-00349,2026-02-07 21:20:00,CLI-0265,Loreto,app,Monitor,4,3103.81,baja
+VEN-00332,2026-02-09 07:14:00,CLI-0195,Lima,app,Mouse,4,431.11,baja
+VEN-00343,2026-02-16 17:24:00,CLI-0247,Junin,app,Mouse,6,2793.17,alta
+VEN-00325,2026-02-18 21:25:00,CLI-0261,Arequipa,tienda,SSD,6,4794.39,baja
+VEN-00331,2026-03-06 21:28:00,CLI-0096,Loreto,web,Teclado,1,4452.14,baja
+VEN-00328,2026-03-07 09:16:00,CLI-0099,Arequipa,marketplace,Mouse,8,2920.49,alta
+VEN-00336,2026-03-09 08:39:00,CLI-0205,Lima,app,Audifonos,5,5244.87,media
+VEN-00322,2026-03-17 14:01:00,CLI-0112,Piura,tienda,Monitor,8,4116.71,media
+VEN-00337,2026-03-18 03:40:00,CLI-0284,Loreto,marketplace,Router,2,1027.34,baja
+VEN-00353,2026-03-19 02:41:00,CLI-0118,Loreto,app,SSD,8,2013.5,baja
+VEN-00342,2026-03-19 11:37:00,CLI-0146,Piura,tienda,Impresora,6,4922.92,media
+VEN-00358,2026-03-27 03:36:00,CLI-0024,Loreto,web,Mouse,7,4268.75,media
+VEN-00354,2026-03-27 21:56:00,CLI-0281,Junin,web,Monitor,5,737.67,baja
+VEN-00335,2026-03-31 08:11:00,CLI-0288,Arequipa,web,Router,4,1334.58,alta
+VEN-00357,2026-04-02 23:41:00,CLI-0252,Piura,web,Audifonos,3,1473.93,alta
+VEN-00346,2026-04-15 01:29:00,CLI-0220,Loreto,web,Laptop,3,2286.3,media
+VEN-00348,2026-04-18 14:48:00,CLI-0182,La Libertad,tienda,Audifonos,4,3996.07,baja
+VEN-00352,2026-04-21 14:34:00,CLI-0030,Loreto,web,Laptop,6,4884.96,media
+VEN-00350,2026-04-27 13:30:00,CLI-0092,Junin,app,Mouse,3,3915.25,baja
+VEN-00359,2026-05-03 09:35:00,CLI-0189,Cusco,app,Router,7,1180.52,media
+VEN-00347,2026-05-07 07:28:00,CLI-0252,Lima,marketplace,Mouse,8,2098.14,baja
+VEN-00338,2026-05-12 13:43:00,CLI-0121,La Libertad,marketplace,SSD,7,333.12,alta
+VEN-00355,2026-05-18 22:36:00,CLI-0271,Arequipa,web,Impresora,5,2847.24,alta
+VEN-00360,2026-05-30 06:00:00,CLI-0266,Cusco,web,Mouse,4,1094.25,baja
+VEN-00344,2026-05-30 10:29:00,CLI-0123,Lima,web,Monitor,2,399.53,media
+VEN-00326,2026-06-01 10:43:00,CLI-0141,Arequipa,app,Mouse,8,595.02,alta
+VEN-00334,2026-06-04 15:49:00,CLI-0139,Arequipa,tienda,Router,8,242.44,media
+VEN-00327,2026-06-11 16:11:00,CLI-0088,Arequipa,tienda,Audifonos,3,5492.15,alta
+VEN-00340,2026-06-11 17:12:00,CLI-0077,Arequipa,tienda,Laptop,3,1605.43,alta
+VEN-00341,2026-06-12 12:45:00,CLI-0213,La Libertad,app,Mouse,8,3309.91,baja
+VEN-00333,2026-06-13 09:33:00,CLI-0026,Cusco,tienda,Mouse,7,2939.75,media
+VEN-00356,2026-06-18 00:56:00,CLI-0085,La Libertad,web,Monitor,4,1171.19,alta
+VEN-00330,2026-06-21 03:03:00,CLI-0068,Loreto,marketplace,Impresora,6,199.78,baja
+VEN-00351,2026-06-21 13:13:00,CLI-0021,Loreto,tienda,Router,1,2862.79,baja
+VEN-00345,2026-06-22 23:00:00,CLI-0097,Loreto,web,SSD,4,105.93,alta
+VEN-00323,2026-06-28 13:49:00,CLI-0050,Junin,web,Teclado,4,3953.65,baja
+VEN-00705,2026-01-02 23:11:00,CLI-0139,Piura,web,Teclado,4,203.29,baja
+VEN-00694,2026-01-03 10:01:00,CLI-0141,La Libertad,web,Router,5,4686.39,baja
+VEN-00704,2026-01-07 05:21:00,CLI-0271,Piura,web,Monitor,5,3554.48,baja
+VEN-00698,2026-01-07 20:34:00,CLI-0337,Loreto,tienda,Impresora,3,4827.1,alta
+VEN-00719,2026-01-15 13:42:00,CLI-0254,Junin,app,Impresora,7,1374.47,alta
+VEN-00702,2026-01-16 01:10:00,CLI-0284,La Libertad,marketplace,Teclado,7,3619.23,baja
+VEN-00685,2026-01-22 04:07:00,CLI-0034,La Libertad,marketplace,Audifonos,2,2154.7,baja
+VEN-00713,2026-01-25 01:19:00,CLI-0085,Loreto,app,Router,4,159.25,media
+VEN-00716,2026-01-28 06:39:00,CLI-0329,Piura,app,Mouse,7,2377.74,media
+VEN-00684,2026-01-31 11:02:00,CLI-0305,Arequipa,marketplace,Impresora,7,4495.92,baja
+VEN-00703,2026-02-01 02:56:00,CLI-0191,Loreto,marketplace,Teclado,8,4402.71,media
+VEN-00686,2026-02-03 11:22:00,CLI-0184,Cusco,tienda,Laptop,1,3088.9,media
+VEN-00687,2026-02-03 14:57:00,CLI-0029,La Libertad,tienda,Router,7,1230.27,baja
+VEN-00714,2026-02-04 09:21:00,CLI-0135,Arequipa,web,Monitor,4,5074.65,alta
+VEN-00708,2026-02-10 16:04:00,CLI-0255,Lima,tienda,Mouse,8,1172.81,media
+VEN-00683,2026-02-23 00:20:00,CLI-0006,Arequipa,app,Mouse,1,624.08,alta
+VEN-00699,2026-02-27 19:44:00,CLI-0083,Arequipa,app,Laptop,3,5384.15,alta
+VEN-00696,2026-03-11 09:22:00,CLI-0164,Cusco,web,Impresora,5,2073.45,media
+VEN-00700,2026-03-13 21:27:00,CLI-0302,Lima,web,Router,6,4661.39,baja
+VEN-00706,2026-03-15 19:11:00,CLI-0221,Lima,web,Mouse,4,1118.74,baja
+VEN-00691,2026-03-16 08:00:00,CLI-0177,La Libertad,marketplace,Impresora,1,757.71,alta
+VEN-00697,2026-03-20 03:02:00,CLI-0164,Lima,web,Router,2,2689.55,media
+VEN-00720,2026-03-24 18:01:00,CLI-0266,Junin,app,Audifonos,6,3623.87,alta
+VEN-00689,2026-03-29 20:04:00,CLI-0011,Cusco,app,Impresora,5,291.78,alta
+VEN-00681,2026-04-01 06:54:00,CLI-0062,Loreto,app,SSD,1,248.4,baja
+VEN-00688,2026-04-08 08:09:00,CLI-0100,Cusco,app,Router,6,3881.28,baja
+VEN-00692,2026-04-26 20:15:00,CLI-0023,Piura,tienda,SSD,6,679.79,baja
+VEN-00717,2026-05-10 07:42:00,CLI-0030,La Libertad,app,Teclado,5,3085.22,baja
+VEN-00693,2026-05-18 18:52:00,CLI-0019,Junin,web,Impresora,3,4632.33,media
+VEN-00712,2026-05-23 09:03:00,CLI-0072,La Libertad,app,SSD,1,2366.5,media
+VEN-00701,2026-05-29 00:42:00,CLI-0133,La Libertad,web,Router,1,3894.18,baja
+VEN-00695,2026-05-31 04:20:00,CLI-0022,Loreto,marketplace,SSD,7,588.79,baja
+VEN-00709,2026-06-05 10:28:00,CLI-0286,Junin,tienda,Mouse,4,4342.39,alta
+VEN-00707,2026-06-11 23:56:00,CLI-0332,La Libertad,marketplace,Router,4,2109.79,baja
+VEN-00718,2026-06-12 01:37:00,CLI-0170,Arequipa,app,SSD,6,1385.96,media
+VEN-00710,2026-06-12 04:32:00,CLI-0079,Arequipa,app,Teclado,4,1421.54,alta
+VEN-00690,2026-06-14 21:47:00,CLI-0207,Piura,tienda,Impresora,3,3651.51,alta
+VEN-00715,2026-06-18 10:09:00,CLI-0110,Loreto,marketplace,Monitor,1,3565.22,baja
+VEN-00682,2026-06-19 23:26:00,CLI-0155,Lima,app,Teclado,8,2422.58,alta
+VEN-00711,2026-06-29 23:58:00,CLI-0293,Junin,app,Router,7,1114.31,alta
+VEN-00951,2026-01-01 15:03:00,CLI-0308,La Libertad,tienda,SSD,6,1845.18,alta
+VEN-00922,2026-01-06 20:19:00,CLI-0156,La Libertad,marketplace,SSD,4,4797.22,media
+VEN-00958,2026-01-07 17:13:00,CLI-0099,Junin,app,Impresora,6,4536.15,baja
+VEN-00934,2026-01-09 19:47:00,CLI-0002,Cusco,web,Mouse,1,3186.05,alta
+VEN-00929,2026-01-11 13:08:00,CLI-0142,Arequipa,web,SSD,3,1384.53,media
+VEN-00938,2026-01-16 14:45:00,CLI-0179,Piura,web,Audifonos,6,1489.54,baja
+VEN-00925,2026-01-18 16:56:00,CLI-0334,Piura,app,SSD,1,4547.5,media
+VEN-00924,2026-01-25 15:10:00,CLI-0341,La Libertad,marketplace,Teclado,7,2268.07,alta
+VEN-00948,2026-01-28 08:25:00,CLI-0344,La Libertad,app,Mouse,5,1170.76,baja
+VEN-00931,2026-01-30 14:13:00,CLI-0122,La Libertad,tienda,Mouse,4,2098.79,baja
+VEN-00943,2026-02-12 13:13:00,CLI-0037,La Libertad,marketplace,SSD,6,268.06,baja
+VEN-00937,2026-02-23 10:51:00,CLI-0105,Lima,marketplace,Monitor,3,3391.21,baja
+VEN-00945,2026-03-11 11:20:00,CLI-0036,Lima,web,Audifonos,1,1431.7,alta
+VEN-00947,2026-03-15 11:08:00,CLI-0078,Arequipa,marketplace,Laptop,3,2281.12,media
+VEN-00954,2026-03-17 03:43:00,CLI-0022,Piura,tienda,Teclado,4,2622.92,baja
+VEN-00921,2026-03-21 21:51:00,CLI-0245,Arequipa,app,Laptop,3,422.52,alta
+VEN-00950,2026-03-25 01:04:00,CLI-0208,Lima,tienda,Laptop,4,3131.93,baja
+VEN-00927,2026-03-26 15:58:00,CLI-0275,Piura,web,Monitor,3,1439.23,media
+VEN-00926,2026-03-31 14:22:00,CLI-0313,Loreto,marketplace,Mouse,6,2340.05,media
+VEN-00941,2026-04-07 22:50:00,CLI-0165,Junin,app,Router,1,5124.26,media
+VEN-00960,2026-04-14 04:53:00,CLI-0112,Piura,marketplace,Impresora,5,1662.81,alta
+VEN-00928,2026-04-21 08:03:00,CLI-0215,La Libertad,marketplace,Monitor,2,4503.28,baja
+VEN-00957,2026-04-22 18:45:00,CLI-0283,Lima,web,Laptop,3,4108.25,media
+VEN-00942,2026-04-24 14:16:00,CLI-0193,Lima,tienda,Laptop,3,5197.93,media
+VEN-00949,2026-04-28 01:18:00,CLI-0062,Loreto,tienda,Monitor,1,2628.22,baja
+VEN-00944,2026-05-03 17:58:00,CLI-0200,Lima,app,Laptop,8,5100.46,alta
+VEN-00923,2026-05-04 10:59:00,CLI-0140,Junin,tienda,Router,7,1058.11,media
+VEN-00956,2026-05-08 23:04:00,CLI-0106,Cusco,app,Teclado,5,3500.9,media
+VEN-00953,2026-05-22 19:07:00,CLI-0161,Arequipa,marketplace,Mouse,2,2737.27,baja
+VEN-00936,2026-05-22 21:14:00,CLI-0251,Cusco,tienda,Mouse,8,3644.85,media
+VEN-00946,2026-05-23 21:22:00,CLI-0252,Cusco,marketplace,Teclado,8,4054.13,alta
+VEN-00955,2026-05-29 07:58:00,CLI-0283,Loreto,tienda,Teclado,6,613.12,media
+VEN-00932,2026-06-09 14:51:00,CLI-0175,Lima,app,Mouse,4,2091.59,baja
+VEN-00930,2026-06-16 03:24:00,CLI-0290,Junin,app,Teclado,4,778.88,media
+VEN-00952,2026-06-18 04:05:00,CLI-0215,Arequipa,app,Audifonos,1,3468.91,alta
+VEN-00933,2026-06-19 06:19:00,CLI-0246,Lima,marketplace,Monitor,8,1496.59,baja
+VEN-00939,2026-06-22 22:26:00,CLI-0118,Cusco,web,Laptop,8,5393.09,alta
+VEN-00935,2026-06-24 03:22:00,CLI-0131,Loreto,tienda,Audifonos,8,2008.08,alta
+VEN-00959,2026-06-26 16:27:00,CLI-0212,Piura,tienda,Laptop,6,1364.29,media
+VEN-00940,2026-06-30 07:38:00,CLI-0097,Junin,web,Laptop,2,1583.55,alta
+VEN-00774,2026-01-02 19:10:00,CLI-0276,Cusco,marketplace,Monitor,4,3243.32,alta
+VEN-00776,2026-01-14 09:36:00,CLI-0135,La Libertad,marketplace,Monitor,3,1642.28,baja
+VEN-00788,2026-01-24 15:37:00,CLI-0096,La Libertad,tienda,Laptop,1,4601.39,media
+VEN-00762,2026-01-30 04:25:00,CLI-0004,Loreto,app,Router,2,4948.1,media
+VEN-00771,2026-02-04 23:34:00,CLI-0229,Cusco,tienda,Impresora,7,404.8,baja
+VEN-00782,2026-02-10 02:17:00,CLI-0078,Loreto,web,Monitor,5,3865.77,alta
+VEN-00797,2026-02-12 13:26:00,CLI-0031,La Libertad,marketplace,Monitor,5,3814.87,baja
+VEN-00763,2026-02-12 23:22:00,CLI-0348,La Libertad,tienda,Mouse,6,2109.05,baja
+VEN-00793,2026-02-21 11:14:00,CLI-0038,La Libertad,app,Impresora,1,3581.1,alta
+VEN-00767,2026-02-26 07:21:00,CLI-0335,Cusco,marketplace,SSD,8,1950.77,media
+VEN-00792,2026-02-26 17:24:00,CLI-0082,Arequipa,tienda,Teclado,4,4839.33,media
+VEN-00781,2026-02-28 12:04:00,CLI-0109,La Libertad,tienda,Audifonos,3,3567.46,media
+VEN-00769,2026-03-03 17:10:00,CLI-0201,La Libertad,web,SSD,7,664.19,media
+VEN-00795,2026-03-07 07:19:00,CLI-0328,Arequipa,web,Audifonos,7,4858.82,media
+VEN-00768,2026-03-10 08:50:00,CLI-0044,Junin,web,SSD,4,2546.25,baja
+VEN-00775,2026-03-10 09:54:00,CLI-0135,Loreto,app,Impresora,7,3577.77,baja
+VEN-00789,2026-03-10 14:49:00,CLI-0053,La Libertad,tienda,Teclado,4,3167.08,baja
+VEN-00787,2026-03-12 05:28:00,CLI-0085,Piura,app,Impresora,2,1551.07,alta
+VEN-00783,2026-03-14 23:33:00,CLI-0104,Loreto,app,Router,5,3347.51,media
+VEN-00779,2026-03-15 13:06:00,CLI-0171,Lima,web,Teclado,2,616.98,media
+VEN-00791,2026-03-19 13:32:00,CLI-0326,Piura,marketplace,Router,5,269.52,alta
+VEN-00785,2026-03-19 14:39:00,CLI-0312,Junin,app,Mouse,2,402.8,media
+VEN-00786,2026-04-03 06:31:00,CLI-0326,La Libertad,marketplace,Audifonos,4,5191.92,baja
+VEN-00766,2026-04-08 12:12:00,CLI-0030,Lima,app,Audifonos,1,2846.59,alta
+VEN-00799,2026-04-17 20:10:00,CLI-0036,Piura,marketplace,Laptop,5,196.18,baja
+VEN-00798,2026-04-18 15:48:00,CLI-0096,Arequipa,web,Laptop,5,5238.1,baja
+VEN-00777,2026-04-22 06:02:00,CLI-0101,Arequipa,web,Monitor,7,4045.03,media
+VEN-00778,2026-04-24 09:55:00,CLI-0162,Arequipa,marketplace,Monitor,2,2059.17,baja
+VEN-00794,2026-04-26 18:09:00,CLI-0346,Cusco,web,Laptop,5,4860.5,baja
+VEN-00772,2026-04-30 03:04:00,CLI-0332,Loreto,web,Router,2,1293.28,media
+VEN-00790,2026-05-03 03:12:00,CLI-0071,Junin,app,Audifonos,4,183.18,media
+VEN-00764,2026-05-04 11:26:00,CLI-0327,Piura,web,Router,6,121.33,alta
+VEN-00800,2026-05-08 19:05:00,CLI-0259,Arequipa,marketplace,Router,3,4164.2,alta
+VEN-00770,2026-05-08 19:56:00,CLI-0254,Piura,marketplace,Monitor,6,2333.43,media
+VEN-00796,2026-05-14 13:04:00,CLI-0082,Loreto,app,Router,4,2508.23,alta
+VEN-00765,2026-05-29 09:44:00,CLI-0280,Cusco,web,Laptop,4,2019.48,alta
+VEN-00780,2026-06-04 14:03:00,CLI-0151,Arequipa,marketplace,Mouse,4,3503.1,media
+VEN-00761,2026-06-04 23:12:00,CLI-0201,Lima,tienda,Impresora,6,5311.94,media
+VEN-00773,2026-06-12 07:26:00,CLI-0122,Piura,app,Monitor,8,1761.79,alta
+VEN-00784,2026-06-20 07:42:00,CLI-0207,Junin,tienda,Monitor,1,3637.58,media
+VEN-00963,2026-01-06 22:38:00,CLI-0346,Lima,app,SSD,7,1898.8,baja
+VEN-00986,2026-01-07 19:54:00,CLI-0275,Junin,web,Router,3,4278.81,alta
+VEN-00972,2026-01-09 06:17:00,CLI-0203,Cusco,tienda,Impresora,2,723.26,media
+VEN-00961,2026-01-13 19:59:00,CLI-0342,Arequipa,marketplace,Laptop,7,5019.24,baja
+VEN-00992,2026-01-18 03:42:00,CLI-0170,Arequipa,app,Mouse,5,1230.96,baja
+VEN-00997,2026-02-02 18:44:00,CLI-0245,Piura,web,SSD,8,1082.37,alta
+VEN-00989,2026-02-02 23:41:00,CLI-0093,Loreto,tienda,SSD,7,4080.27,media
+VEN-00987,2026-02-11 03:12:00,CLI-0256,Lima,marketplace,Monitor,1,1426.55,baja
+VEN-01000,2026-02-15 22:46:00,CLI-0238,Arequipa,web,Impresora,3,1468.4,alta
+VEN-00995,2026-02-24 22:37:00,CLI-0150,Piura,tienda,SSD,8,1157.9,alta
+VEN-00990,2026-02-28 16:43:00,CLI-0157,La Libertad,marketplace,Router,8,393.82,alta
+VEN-00973,2026-03-12 10:50:00,CLI-0144,Arequipa,marketplace,Router,5,2580.24,media
+VEN-00965,2026-03-14 15:03:00,CLI-0143,Loreto,marketplace,Mouse,2,1356.58,alta
+VEN-00980,2026-03-19 15:23:00,CLI-0032,Loreto,app,Router,2,385.92,alta
+VEN-00970,2026-03-24 22:09:00,CLI-0009,Lima,marketplace,Teclado,7,1548.36,alta
+VEN-00962,2026-03-30 09:37:00,CLI-0046,Loreto,tienda,Monitor,5,5444.66,baja
+VEN-00976,2026-03-31 05:02:00,CLI-0032,Piura,web,Impresora,5,2729.35,baja
+VEN-00985,2026-04-01 12:03:00,CLI-0102,Lima,web,Monitor,4,647.49,alta
+VEN-00988,2026-04-08 10:36:00,CLI-0135,Junin,web,Monitor,2,1214.24,alta
+VEN-00971,2026-04-16 11:07:00,CLI-0137,Loreto,tienda,Laptop,8,1521.12,media
+VEN-00979,2026-04-20 02:40:00,CLI-0243,Piura,web,SSD,6,1347.81,baja
+VEN-00969,2026-04-21 15:34:00,CLI-0089,Junin,tienda,Laptop,1,3397.48,media
+VEN-00966,2026-04-28 00:18:00,CLI-0243,Piura,marketplace,SSD,4,1678.21,media
+VEN-00983,2026-04-30 22:27:00,CLI-0344,Loreto,app,SSD,5,3447.85,baja
+VEN-00974,2026-05-01 07:52:00,CLI-0248,Loreto,tienda,Laptop,7,3674.55,alta
+VEN-00977,2026-05-02 15:10:00,CLI-0233,Loreto,tienda,Monitor,2,4197.62,alta
+VEN-00964,2026-05-11 07:56:00,CLI-0252,Cusco,tienda,Teclado,1,629.84,baja
+VEN-00994,2026-05-14 22:11:00,CLI-0147,Arequipa,marketplace,Teclado,6,3831.27,media
+VEN-00999,2026-05-20 04:04:00,CLI-0183,Junin,tienda,Monitor,8,1172.42,baja
+VEN-00975,2026-05-26 18:39:00,CLI-0088,Piura,tienda,SSD,5,4608.51,media
+VEN-00981,2026-05-29 07:28:00,CLI-0007,La Libertad,marketplace,Monitor,1,3144.45,baja
+VEN-00982,2026-05-29 08:47:00,CLI-0026,Piura,web,Impresora,6,3753.04,baja
+VEN-00984,2026-06-02 14:12:00,CLI-0168,Arequipa,tienda,Laptop,5,308.56,baja
+VEN-00978,2026-06-04 11:18:00,CLI-0108,Lima,tienda,Impresora,7,3142.6,baja
+VEN-00993,2026-06-09 21:52:00,CLI-0299,Arequipa,app,Router,8,4265.36,baja
+VEN-00968,2026-06-13 03:21:00,CLI-0066,Junin,tienda,Laptop,4,141.13,alta
+VEN-00967,2026-06-15 00:50:00,CLI-0034,La Libertad,marketplace,Laptop,2,2381.0,alta
+VEN-00996,2026-06-16 06:57:00,CLI-0257,Piura,web,Monitor,4,353.41,alta
+VEN-00998,2026-06-27 01:02:00,CLI-0215,Arequipa,web,Mouse,1,3763.55,baja
+VEN-00991,2026-06-28 02:23:00,CLI-0182,Loreto,marketplace,Monitor,4,1183.28,baja
+VEN-00468,2026-01-03 13:55:00,CLI-0069,Junin,app,SSD,7,3002.12,media
+VEN-00445,2026-01-07 11:21:00,CLI-0241,Cusco,marketplace,Laptop,8,2957.16,media
+VEN-00452,2026-01-11 11:57:00,CLI-0018,Junin,tienda,Teclado,3,968.55,media
+VEN-00474,2026-01-12 20:03:00,CLI-0240,Lima,app,SSD,4,1013.64,baja
+VEN-00463,2026-01-17 10:41:00,CLI-0269,La Libertad,tienda,Teclado,6,2717.44,baja
+VEN-00464,2026-01-27 17:25:00,CLI-0329,La Libertad,web,Mouse,5,759.32,media
+VEN-00479,2026-01-28 14:40:00,CLI-0326,La Libertad,marketplace,Teclado,3,4067.65,media
+VEN-00471,2026-01-29 07:35:00,CLI-0240,La Libertad,tienda,Audifonos,7,5413.64,baja
+VEN-00453,2026-01-29 16:52:00,CLI-0014,Loreto,marketplace,Mouse,2,1239.74,alta
+VEN-00472,2026-01-30 14:02:00,CLI-0199,Piura,marketplace,Mouse,2,869.12,baja
+VEN-00456,2026-01-31 11:38:00,CLI-0305,Junin,marketplace,Router,6,1444.92,alta
+VEN-00441,2026-02-02 18:54:00,CLI-0021,Cusco,app,Teclado,5,2543.05,alta
+VEN-00475,2026-02-05 23:39:00,CLI-0097,Loreto,tienda,Router,5,1644.94,media
+VEN-00461,2026-02-10 04:06:00,CLI-0023,Piura,tienda,Impresora,3,992.55,media
+VEN-00458,2026-03-04 16:24:00,CLI-0334,Cusco,app,Teclado,2,3913.99,baja
+VEN-00470,2026-03-18 10:06:00,CLI-0246,Junin,tienda,Impresora,4,2943.33,alta
+VEN-00447,2026-03-23 16:37:00,CLI-0211,Cusco,marketplace,Mouse,3,3908.04,baja
+VEN-00467,2026-03-29 04:17:00,CLI-0305,Piura,web,Impresora,3,1001.49,baja
+VEN-00450,2026-03-30 03:45:00,CLI-0210,Cusco,marketplace,Monitor,4,2770.34,baja
+VEN-00478,2026-04-02 08:52:00,CLI-0133,Lima,tienda,Impresora,2,2550.92,alta
+VEN-00451,2026-04-03 15:35:00,CLI-0016,Piura,web,Teclado,4,4314.58,media
+VEN-00473,2026-04-16 11:10:00,CLI-0197,Piura,web,Laptop,7,2217.32,alta
+VEN-00480,2026-04-21 12:23:00,CLI-0165,Loreto,marketplace,Laptop,8,5009.71,baja
+VEN-00443,2026-04-21 13:37:00,CLI-0239,La Libertad,tienda,Monitor,6,688.16,media
+VEN-00444,2026-04-22 03:37:00,CLI-0122,La Libertad,web,Monitor,3,1089.98,alta
+VEN-00442,2026-04-29 15:21:00,CLI-0030,Cusco,tienda,Impresora,6,1876.6,media
+VEN-00462,2026-05-02 01:19:00,CLI-0224,Cusco,app,Teclado,1,4396.16,media
+VEN-00477,2026-05-05 23:08:00,CLI-0100,Junin,web,Mouse,4,1519.75,media
+VEN-00476,2026-05-10 20:44:00,CLI-0347,Loreto,web,Impresora,3,1195.58,alta
+VEN-00446,2026-05-14 12:01:00,CLI-0179,Junin,tienda,Laptop,3,1149.03,media
+VEN-00454,2026-05-20 19:48:00,CLI-0007,Arequipa,tienda,Impresora,3,5054.51,baja
+VEN-00457,2026-05-22 17:09:00,CLI-0259,Junin,tienda,Monitor,4,1328.61,baja
+VEN-00465,2026-05-23 11:21:00,CLI-0302,Cusco,web,SSD,2,4332.21,media
+VEN-00460,2026-05-25 18:17:00,CLI-0319,Loreto,web,Teclado,8,369.87,media
+VEN-00469,2026-06-17 08:52:00,CLI-0078,La Libertad,web,Teclado,5,3146.78,baja
+VEN-00449,2026-06-19 23:47:00,CLI-0002,La Libertad,app,Router,2,2768.72,alta
+VEN-00466,2026-06-20 15:09:00,CLI-0281,Lima,app,Router,4,3526.72,baja
+VEN-00455,2026-06-22 17:34:00,CLI-0163,La Libertad,app,Audifonos,4,1996.62,baja
+VEN-00459,2026-06-23 12:44:00,CLI-0199,Lima,app,Laptop,7,2140.45,baja
+VEN-00448,2026-06-29 17:57:00,CLI-0312,Arequipa,marketplace,Router,6,1194.36,baja
+VEN-00162,2026-01-03 02:47:00,CLI-0129,Loreto,web,Laptop,5,689.88,alta
+VEN-00193,2026-01-06 12:06:00,CLI-0339,Piura,marketplace,SSD,6,5155.55,media
+VEN-00188,2026-01-11 18:03:00,CLI-0096,Lima,marketplace,Monitor,4,455.79,media
+VEN-00186,2026-01-20 17:02:00,CLI-0215,Loreto,app,Router,4,1752.53,media
+VEN-00190,2026-01-23 04:26:00,CLI-0325,Cusco,app,Router,8,49.57,alta
+VEN-00189,2026-01-27 21:32:00,CLI-0339,Arequipa,tienda,Audifonos,2,2924.43,media
+VEN-00168,2026-02-04 05:34:00,CLI-0131,Lima,tienda,Teclado,5,39.27,media
+VEN-00174,2026-02-11 04:30:00,CLI-0021,Lima,web,Laptop,6,4249.41,media
+VEN-00180,2026-02-11 08:08:00,CLI-0150,La Libertad,marketplace,Audifonos,1,2080.08,alta
+VEN-00178,2026-02-14 05:09:00,CLI-0225,Lima,tienda,SSD,8,2489.78,alta
+VEN-00195,2026-02-28 13:57:00,CLI-0080,Cusco,marketplace,Router,4,2583.76,media
+VEN-00163,2026-03-05 18:14:00,CLI-0031,Piura,marketplace,Monitor,1,115.17,baja
+VEN-00166,2026-03-06 00:52:00,CLI-0035,Lima,marketplace,Laptop,3,1085.43,baja
+VEN-00197,2026-03-16 11:16:00,CLI-0062,Junin,web,Audifonos,1,5230.81,media
+VEN-00194,2026-03-24 13:22:00,CLI-0255,Loreto,web,Laptop,3,5205.41,baja
+VEN-00196,2026-04-01 10:57:00,CLI-0129,Arequipa,tienda,Teclado,3,1689.76,media
+VEN-00176,2026-04-01 20:51:00,CLI-0156,Piura,tienda,Teclado,2,451.68,media
+VEN-00170,2026-04-03 12:38:00,CLI-0291,Loreto,marketplace,Mouse,5,4246.48,media
+VEN-00198,2026-04-05 07:21:00,CLI-0055,Junin,tienda,Impresora,6,576.91,media
+VEN-00177,2026-04-16 10:59:00,CLI-0145,Cusco,app,Impresora,6,728.45,baja
+VEN-00164,2026-04-20 14:32:00,CLI-0102,Lima,marketplace,Monitor,6,4126.58,media
+VEN-00173,2026-04-27 02:50:00,CLI-0115,La Libertad,marketplace,Mouse,2,389.08,baja
+VEN-00191,2026-04-30 19:59:00,CLI-0026,Cusco,tienda,Router,2,2259.49,media
+VEN-00200,2026-05-02 07:24:00,CLI-0244,Lima,web,SSD,1,2699.56,baja
+VEN-00179,2026-05-02 14:29:00,CLI-0208,Arequipa,app,Audifonos,7,5464.97,baja
+VEN-00187,2026-05-02 16:27:00,CLI-0165,Arequipa,web,Teclado,4,991.83,alta
+VEN-00184,2026-05-03 09:09:00,CLI-0260,La Libertad,tienda,Audifonos,2,3434.22,media
+VEN-00182,2026-05-12 21:42:00,CLI-0322,La Libertad,tienda,Teclado,7,2855.58,media
+VEN-00161,2026-05-14 03:12:00,CLI-0345,La Libertad,marketplace,Router,4,1566.9,media
+VEN-00183,2026-05-24 00:36:00,CLI-0181,Junin,web,Laptop,2,4876.28,alta
+VEN-00199,2026-06-02 03:25:00,CLI-0022,La Libertad,web,Impresora,1,4410.65,alta
+VEN-00172,2026-06-03 18:50:00,CLI-0243,Junin,tienda,Impresora,3,2570.01,alta
+VEN-00181,2026-06-04 12:01:00,CLI-0029,Lima,tienda,Teclado,6,3423.05,baja
+VEN-00185,2026-06-04 14:30:00,CLI-0158,La Libertad,marketplace,Laptop,6,1980.2,alta
+VEN-00175,2026-06-05 02:30:00,CLI-0075,Lima,web,Laptop,7,3192.38,media
+VEN-00165,2026-06-05 20:23:00,CLI-0050,Junin,tienda,Laptop,5,64.93,media
+VEN-00171,2026-06-08 12:19:00,CLI-0304,Junin,tienda,Monitor,1,2736.54,alta
+VEN-00169,2026-06-12 01:51:00,CLI-0193,Arequipa,marketplace,Audifonos,7,2214.04,baja
+VEN-00192,2026-06-18 00:36:00,CLI-0119,Piura,app,Teclado,6,4085.78,media
+VEN-00167,2026-06-19 06:28:00,CLI-0070,Loreto,marketplace,Teclado,8,5348.57,baja
+VEN-00892,2026-01-02 20:12:00,CLI-0212,Lima,app,Mouse,6,3809.25,baja
+VEN-00912,2026-01-04 20:08:00,CLI-0256,Arequipa,marketplace,Monitor,3,1174.47,alta
+VEN-00901,2026-01-11 16:09:00,CLI-0098,Lima,app,Router,8,296.59,media
+VEN-00906,2026-01-21 21:10:00,CLI-0205,Cusco,app,Router,1,3061.88,media
+VEN-00907,2026-01-28 20:12:00,CLI-0199,Lima,marketplace,Router,6,4291.01,alta
+VEN-00910,2026-02-05 23:58:00,CLI-0013,La Libertad,web,Router,5,2378.93,alta
+VEN-00881,2026-02-10 16:42:00,CLI-0274,Cusco,marketplace,SSD,1,43.48,alta
+VEN-00920,2026-02-16 15:11:00,CLI-0044,La Libertad,web,Laptop,6,4048.29,baja
+VEN-00915,2026-02-21 08:04:00,CLI-0006,La Libertad,web,Monitor,8,1820.34,alta
+VEN-00897,2026-02-27 12:49:00,CLI-0338,Cusco,tienda,Router,1,57.88,baja
+VEN-00890,2026-03-01 13:31:00,CLI-0028,Junin,app,Laptop,8,2036.36,media
+VEN-00888,2026-03-02 22:20:00,CLI-0223,Arequipa,tienda,Router,4,2508.33,alta
+VEN-00916,2026-03-05 09:26:00,CLI-0348,Cusco,app,Monitor,5,4462.13,alta
+VEN-00883,2026-03-07 15:02:00,CLI-0243,Junin,app,Mouse,2,2459.35,media
+VEN-00913,2026-03-18 00:12:00,CLI-0221,Lima,web,Monitor,3,1168.04,media
+VEN-00918,2026-04-02 17:28:00,CLI-0130,Arequipa,tienda,Teclado,4,4801.58,alta
+VEN-00900,2026-04-04 07:39:00,CLI-0146,Arequipa,marketplace,Laptop,1,1095.8,media
+VEN-00894,2026-04-07 01:32:00,CLI-0345,Loreto,web,Monitor,8,1441.6,media
+VEN-00903,2026-04-13 09:41:00,CLI-0132,Piura,app,Impresora,7,625.43,baja
+VEN-00904,2026-04-13 11:17:00,CLI-0126,Cusco,tienda,Monitor,6,1990.84,alta
+VEN-00905,2026-04-15 21:21:00,CLI-0141,Lima,tienda,Laptop,1,161.8,baja
+VEN-00882,2026-04-30 07:05:00,CLI-0067,Arequipa,web,Mouse,6,1358.71,baja
+VEN-00889,2026-05-06 23:37:00,CLI-0163,Arequipa,marketplace,Teclado,8,499.19,baja
+VEN-00898,2026-05-15 07:55:00,CLI-0124,Cusco,web,Impresora,6,243.07,media
+VEN-00891,2026-05-18 14:12:00,CLI-0157,La Libertad,web,Laptop,8,209.24,baja
+VEN-00899,2026-05-19 18:14:00,CLI-0230,Piura,marketplace,Laptop,2,1852.75,baja
+VEN-00908,2026-05-21 20:26:00,CLI-0052,La Libertad,app,SSD,3,4536.17,alta
+VEN-00919,2026-05-24 16:17:00,CLI-0141,Cusco,web,Monitor,8,4131.42,baja
+VEN-00895,2026-05-27 13:01:00,CLI-0325,Lima,marketplace,Mouse,1,2747.15,alta
+VEN-00914,2026-06-13 06:18:00,CLI-0241,Cusco,marketplace,Laptop,1,490.12,baja
+VEN-00902,2026-06-13 18:26:00,CLI-0224,Piura,marketplace,Laptop,7,3672.61,alta
+VEN-00917,2026-06-13 19:31:00,CLI-0056,Piura,web,SSD,3,2663.93,alta
+VEN-00887,2026-06-14 03:35:00,CLI-0161,Piura,web,Mouse,3,377.32,alta
+VEN-00896,2026-06-15 08:13:00,CLI-0230,Lima,tienda,Impresora,8,3338.35,alta
+VEN-00911,2026-06-20 20:29:00,CLI-0318,La Libertad,marketplace,Mouse,3,2782.26,media
+VEN-00893,2026-06-21 05:53:00,CLI-0091,La Libertad,app,Laptop,3,1928.53,baja
+VEN-00886,2026-06-21 12:37:00,CLI-0109,Junin,web,Router,5,2683.62,media
+VEN-00884,2026-06-25 07:53:00,CLI-0071,Arequipa,app,Laptop,2,2069.81,alta
+VEN-00909,2026-06-26 03:05:00,CLI-0208,Piura,tienda,Laptop,5,4379.42,alta
+VEN-00885,2026-06-29 10:23:00,CLI-0154,Arequipa,marketplace,Mouse,8,2527.19,media
+VEN-00126,2026-01-07 12:19:00,CLI-0292,Piura,web,Router,4,2433.67,alta
+VEN-00159,2026-01-08 23:32:00,CLI-0117,Piura,marketplace,SSD,3,4167.73,alta
+VEN-00147,2026-01-09 23:28:00,CLI-0305,Piura,app,Laptop,7,1544.38,alta
+VEN-00135,2026-01-11 20:35:00,CLI-0029,Arequipa,marketplace,Monitor,6,1145.95,alta
+VEN-00157,2026-01-22 05:06:00,CLI-0258,Loreto,app,Laptop,7,3012.53,alta
+VEN-00129,2026-01-22 10:23:00,CLI-0321,Arequipa,app,Impresora,5,4641.99,media
+VEN-00154,2026-01-25 02:38:00,CLI-0020,La Libertad,tienda,Router,1,3479.67,alta
+VEN-00146,2026-01-25 05:00:00,CLI-0011,Lima,web,Laptop,4,1220.65,baja
+VEN-00121,2026-01-27 15:58:00,CLI-0051,Junin,tienda,SSD,2,2577.27,alta
+VEN-00134,2026-01-31 10:19:00,CLI-0178,La Libertad,app,Audifonos,2,1323.96,media
+VEN-00133,2026-02-02 05:16:00,CLI-0216,La Libertad,marketplace,Teclado,7,969.66,alta
+VEN-00131,2026-02-02 08:38:00,CLI-0004,Junin,tienda,Router,3,1760.6,alta
+VEN-00149,2026-02-02 10:58:00,CLI-0022,Loreto,app,Mouse,4,432.4,media
+VEN-00153,2026-02-05 10:00:00,CLI-0274,Junin,web,Monitor,3,2853.38,media
+VEN-00151,2026-02-07 10:38:00,CLI-0046,Junin,tienda,Router,3,3233.53,alta
+VEN-00145,2026-02-12 22:18:00,CLI-0223,Piura,app,Audifonos,8,3284.98,media
+VEN-00143,2026-02-13 00:58:00,CLI-0201,La Libertad,marketplace,Teclado,7,124.47,alta
+VEN-00158,2026-02-14 02:36:00,CLI-0111,Piura,marketplace,Monitor,3,4935.05,baja
+VEN-00127,2026-02-19 20:38:00,CLI-0175,Piura,marketplace,Audifonos,3,1748.11,media
+VEN-00148,2026-02-22 11:37:00,CLI-0189,Cusco,marketplace,SSD,1,1284.97,media
+VEN-00132,2026-03-01 05:27:00,CLI-0247,Piura,web,Laptop,6,4025.82,alta
+VEN-00141,2026-03-11 01:29:00,CLI-0045,Lima,marketplace,Teclado,2,158.58,baja
+VEN-00125,2026-03-25 14:24:00,CLI-0255,Junin,web,Laptop,7,3597.7,alta
+VEN-00130,2026-03-27 03:50:00,CLI-0070,Cusco,marketplace,Audifonos,2,2869.45,alta
+VEN-00155,2026-04-06 02:21:00,CLI-0340,Junin,app,Router,4,4515.85,baja
+VEN-00140,2026-04-12 19:30:00,CLI-0292,Lima,marketplace,SSD,1,4710.4,alta
+VEN-00152,2026-04-17 22:07:00,CLI-0327,La Libertad,tienda,Router,8,2152.34,alta
+VEN-00160,2026-04-18 07:42:00,CLI-0293,La Libertad,marketplace,Router,8,1329.02,media
+VEN-00139,2026-04-20 00:01:00,CLI-0160,La Libertad,tienda,SSD,2,5414.82,baja
+VEN-00138,2026-04-21 14:32:00,CLI-0323,Cusco,web,Teclado,7,4546.48,media
+VEN-00137,2026-04-30 17:38:00,CLI-0246,La Libertad,tienda,Mouse,7,4660.01,media
+VEN-00136,2026-05-03 20:41:00,CLI-0168,Cusco,app,Mouse,6,3780.73,baja
+VEN-00123,2026-05-05 02:06:00,CLI-0331,Arequipa,app,Mouse,2,4728.84,baja
+VEN-00142,2026-05-09 18:41:00,CLI-0275,Lima,web,SSD,1,3545.32,baja
+VEN-00144,2026-05-14 05:12:00,CLI-0090,Junin,tienda,Monitor,3,3629.33,baja
+VEN-00128,2026-05-19 23:54:00,CLI-0084,Cusco,web,Impresora,8,1194.56,media
+VEN-00122,2026-06-08 14:15:00,CLI-0311,Lima,marketplace,Teclado,1,2890.54,baja
+VEN-00150,2026-06-09 04:18:00,CLI-0219,Arequipa,web,SSD,2,3472.01,alta
+VEN-00124,2026-06-15 13:56:00,CLI-0196,Cusco,tienda,Laptop,7,4587.85,baja
+VEN-00156,2026-06-17 09:18:00,CLI-0061,Piura,marketplace,Impresora,8,1448.68,baja
+VEN-00102,2026-01-04 11:50:00,CLI-0064,Junin,tienda,Monitor,3,2845.29,media
+VEN-00120,2026-01-09 14:17:00,CLI-0014,Junin,web,Mouse,1,4513.01,alta
+VEN-00084,2026-01-14 11:13:00,CLI-0167,Piura,web,Mouse,6,4450.7,media
+VEN-00111,2026-01-16 05:54:00,CLI-0091,Cusco,tienda,SSD,4,2360.11,alta
+VEN-00113,2026-01-17 18:15:00,CLI-0262,Loreto,app,SSD,5,5156.15,baja
+VEN-00112,2026-01-20 12:50:00,CLI-0314,Cusco,app,Monitor,4,149.03,baja
+VEN-00117,2026-01-20 15:23:00,CLI-0187,Lima,marketplace,Teclado,8,4810.89,media
+VEN-00100,2026-01-22 09:06:00,CLI-0157,Cusco,web,Teclado,3,2833.28,media
+VEN-00114,2026-01-27 13:39:00,CLI-0131,Piura,web,SSD,5,2104.82,baja
+VEN-00109,2026-02-06 23:30:00,CLI-0007,Cusco,tienda,Teclado,2,1868.87,baja
+VEN-00086,2026-02-08 15:41:00,CLI-0216,Lima,marketplace,Impresora,1,5280.19,media
+VEN-00094,2026-02-12 04:07:00,CLI-0324,Loreto,tienda,Teclado,2,4539.41,media
+VEN-00085,2026-02-13 22:36:00,CLI-0182,Lima,app,Monitor,5,2169.65,media
+VEN-00118,2026-02-16 15:20:00,CLI-0336,Junin,web,Router,3,435.86,alta
+VEN-00115,2026-02-17 22:29:00,CLI-0264,Arequipa,app,Router,3,2163.51,alta
+VEN-00099,2026-03-02 21:51:00,CLI-0039,Piura,marketplace,Router,8,5333.17,alta
+VEN-00089,2026-03-05 21:54:00,CLI-0174,Arequipa,app,Monitor,5,4355.89,media
+VEN-00106,2026-03-06 10:11:00,CLI-0177,Cusco,app,Monitor,4,2971.48,alta
+VEN-00093,2026-03-06 14:23:00,CLI-0204,Loreto,marketplace,Laptop,4,3609.03,alta
+VEN-00116,2026-03-10 12:32:00,CLI-0227,Piura,marketplace,Router,2,4173.14,media
+VEN-00105,2026-03-11 02:26:00,CLI-0105,Piura,web,SSD,7,2961.97,alta
+VEN-00091,2026-03-15 12:42:00,CLI-0348,Arequipa,marketplace,SSD,7,1824.01,media
+VEN-00119,2026-03-18 01:43:00,CLI-0151,Junin,tienda,Laptop,6,564.97,baja
+VEN-00096,2026-03-24 06:58:00,CLI-0204,Junin,web,Router,4,1355.98,alta
+VEN-00103,2026-04-02 07:29:00,CLI-0048,Loreto,web,Monitor,4,1953.61,baja
+VEN-00107,2026-04-13 10:04:00,CLI-0040,Cusco,marketplace,Impresora,4,581.31,baja
+VEN-00101,2026-04-15 03:27:00,CLI-0204,Junin,app,Audifonos,2,2857.03,alta
+VEN-00098,2026-04-16 09:05:00,CLI-0109,Cusco,web,Audifonos,5,475.43,media
+VEN-00104,2026-04-20 12:13:00,CLI-0305,Junin,web,Impresora,2,2993.54,baja
+VEN-00081,2026-04-21 22:09:00,CLI-0126,La Libertad,marketplace,Monitor,6,746.32,media
+VEN-00110,2026-04-24 07:36:00,CLI-0048,La Libertad,app,Impresora,1,2152.85,baja
+VEN-00097,2026-04-25 13:02:00,CLI-0125,Lima,app,Monitor,3,894.41,alta
+VEN-00087,2026-05-05 07:37:00,CLI-0062,La Libertad,marketplace,Router,6,2660.99,media
+VEN-00088,2026-05-09 21:01:00,CLI-0304,La Libertad,web,Impresora,4,425.04,baja
+VEN-00092,2026-05-12 18:14:00,CLI-0076,Lima,app,Mouse,5,1588.3,alta
+VEN-00095,2026-05-24 11:11:00,CLI-0012,Junin,tienda,Monitor,1,1228.75,baja
+VEN-00090,2026-06-07 08:47:00,CLI-0014,La Libertad,app,Router,4,1193.37,media
+VEN-00083,2026-06-10 05:43:00,CLI-0071,La Libertad,tienda,Laptop,7,2433.32,alta
+VEN-00108,2026-06-24 16:51:00,CLI-0339,Cusco,marketplace,Monitor,8,2038.79,media
+VEN-00082,2026-06-24 22:03:00,CLI-0193,Cusco,tienda,Router,8,2504.8,media
